@@ -1,5 +1,5 @@
 {
-  "generated_at_kst": "2026-10-25T13:13:42.902301+09:00",
+  "generated_at_kst": "2026-10-25T13:23:46.504849+09:00",
   "status": "complete",
   "records": [
     {
@@ -87,7 +87,7 @@
   "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing.",
   "market_context": {
     "status": "complete",
-    "collected_at_kst": "2026-10-25T13:13:44.812155+09:00",
+    "collected_at_kst": "2026-10-25T13:23:48.804070+09:00",
     "markets": [
       {
         "market": "KOSPI",
@@ -266,6 +266,6 @@
         "representative": "KCC"
       }
     ],
-    "collected_at_kst": "2026-10-25T13:13:45.688951+09:00"
+    "collected_at_kst": "2026-10-25T13:23:49.928462+09:00"
   }
 }
