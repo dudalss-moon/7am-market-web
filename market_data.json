@@ -1,0 +1,88 @@
+{
+  "generated_at_kst": "2026-10-25T10:00:18.204973+09:00",
+  "status": "complete",
+  "records": [
+    {
+      "name": "KOSPI",
+      "symbol": "^KS11",
+      "session_date": "2026-10-23",
+      "close": 5550.2998,
+      "previous_close": 5533.77,
+      "change_pct": 0.299,
+      "currency_or_unit": "index / local listing currency",
+      "source": "Yahoo Finance (unofficial yfinance)"
+    },
+    {
+      "name": "KOSDAQ",
+      "symbol": "^KQ11",
+      "session_date": "2026-10-23",
+      "close": 751.69,
+      "previous_close": 764.1,
+      "change_pct": -1.624,
+      "currency_or_unit": "index / local listing currency",
+      "source": "Yahoo Finance (unofficial yfinance)"
+    },
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "session_date": "2026-10-23",
+      "close": 7623.6802,
+      "previous_close": 7663.4302,
+      "change_pct": -0.519,
+      "currency_or_unit": "index / local listing currency",
+      "source": "Yahoo Finance (unofficial yfinance)"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "session_date": "2026-10-23",
+      "close": 25955.3398,
+      "previous_close": 26008.8594,
+      "change_pct": -0.206,
+      "currency_or_unit": "index / local listing currency",
+      "source": "Yahoo Finance (unofficial yfinance)"
+    },
+    {
+      "name": "Samsung Electronics",
+      "symbol": "005930.KS",
+      "session_date": "2026-10-23",
+      "close": 215500.0,
+      "previous_close": 214500.0,
+      "change_pct": 0.466,
+      "currency_or_unit": "index / local listing currency",
+      "source": "Yahoo Finance (unofficial yfinance)"
+    },
+    {
+      "name": "SK Hynix",
+      "symbol": "000660.KS",
+      "session_date": "2026-10-23",
+      "close": 1277000.0,
+      "previous_close": 1223000.0,
+      "change_pct": 4.415,
+      "currency_or_unit": "index / local listing currency",
+      "source": "Yahoo Finance (unofficial yfinance)"
+    },
+    {
+      "name": "NVIDIA",
+      "symbol": "NVDA",
+      "session_date": "2026-10-23",
+      "close": 210.96,
+      "previous_close": 212.21,
+      "change_pct": -0.589,
+      "currency_or_unit": "index / local listing currency",
+      "source": "Yahoo Finance (unofficial yfinance)"
+    },
+    {
+      "name": "USD/KRW",
+      "symbol": "KRW=X",
+      "session_date": "2026-10-24",
+      "close": 1325.4,
+      "previous_close": 1325.99,
+      "change_pct": -0.044,
+      "currency_or_unit": "KRW per USD",
+      "source": "Yahoo Finance (unofficial yfinance)"
+    }
+  ],
+  "failures": {},
+  "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing."
+}
