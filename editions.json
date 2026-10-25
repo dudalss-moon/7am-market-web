@@ -1,0 +1,23 @@
+{
+  "editions": [
+    {
+      "date": "2026-10-25",
+      "title": "일요일 휴장: 10월 23일 종가로 월요일 위험 요인을 점검",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5550.2998,
+          "change_pct": 0.299,
+          "session_date": "2026-10-23"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 751.69,
+          "change_pct": -1.624,
+          "session_date": "2026-10-23"
+        }
+      ]
+    }
+  ]
+}
