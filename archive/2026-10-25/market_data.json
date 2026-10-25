@@ -1,5 +1,5 @@
 {
-  "generated_at_kst": "2026-10-25T12:19:08.201809+09:00",
+  "generated_at_kst": "2026-10-25T13:13:42.902301+09:00",
   "status": "complete",
   "records": [
     {
@@ -75,7 +75,7 @@
     {
       "name": "USD/KRW",
       "symbol": "KRW=X",
-      "session_date": "2026-10-24",
+      "session_date": "2026-10-25",
       "close": 1325.4,
       "previous_close": 1325.99,
       "change_pct": -0.044,
@@ -87,7 +87,7 @@
   "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing.",
   "market_context": {
     "status": "complete",
-    "collected_at_kst": "2026-10-25T12:19:10.494746+09:00",
+    "collected_at_kst": "2026-10-25T13:13:44.812155+09:00",
     "markets": [
       {
         "market": "KOSPI",
@@ -266,6 +266,6 @@
         "representative": "KCC"
       }
     ],
-    "collected_at_kst": "2026-10-25T12:19:11.557258+09:00"
+    "collected_at_kst": "2026-10-25T13:13:45.688951+09:00"
   }
 }
