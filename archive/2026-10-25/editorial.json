@@ -264,5 +264,92 @@
         "관전 포인트 | 외국인 현·선물 순매매, 양 시장의 상승·하락 비율과 반도체 거래대금·상대강도를 함께 확인하세요. 환율·유가·미국 금리와 FOMC·실적 기대의 변화도 점검하되, 이는 확정 예측이나 매매 지시가 아닌 조건부 시나리오입니다."
       ]
     }
-  ]
+  ],
+  "event_calendar": {
+    "checked_at": "2026-10-25T13:29:02.227633+09:00",
+    "events": [
+      {
+        "title": "FOMC 금리 결정·성명",
+        "kind": "통화정책",
+        "local_date": "2026-10-28",
+        "local_time": "14:00",
+        "timezone": "America/New_York",
+        "watch": "금리 결정과 성명의 물가·향후 정책 경로 표현을 확인합니다. 시장 영향은 발표 내용에 따라 달라집니다.",
+        "related": [
+          "미국 증시",
+          "원·달러",
+          "국채금리"
+        ],
+        "source": {
+          "title": "연준 공식 10월 일정",
+          "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+        }
+      },
+      {
+        "title": "FOMC 기자회견",
+        "kind": "통화정책",
+        "local_date": "2026-10-28",
+        "local_time": "14:30",
+        "timezone": "America/New_York",
+        "watch": "금리 결정 이후 설명에서 물가와 향후 정책 경로를 어떻게 평가하는지 확인합니다.",
+        "related": [
+          "미국 증시",
+          "국채금리"
+        ],
+        "source": {
+          "title": "연준 공식 10월 일정",
+          "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+        }
+      },
+      {
+        "title": "마이크로소프트 실적 컨퍼런스콜",
+        "kind": "기업 실적",
+        "local_date": "2026-10-28",
+        "local_time": "14:30",
+        "timezone": "America/Los_Angeles",
+        "watch": "AI 설비투자와 마진·현금흐름 가이던스를 함께 봅니다. 이 시각은 실적 공개 시각이 아닌 컨퍼런스콜 시각입니다.",
+        "related": [
+          "MSFT",
+          "반도체·AI"
+        ],
+        "source": {
+          "title": "Microsoft 공식 실적 일정 공지",
+          "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/"
+        }
+      },
+      {
+        "title": "미국 3분기 GDP 속보치·9월 PCE 포함 개인소득·지출",
+        "kind": "경제지표",
+        "local_date": "2026-10-29",
+        "local_time": "08:30",
+        "timezone": "America/New_York",
+        "watch": "성장과 물가의 조합을 확인합니다. 지표 해석은 금리 경로와 연결해 살피되 방향을 미리 단정하지 않습니다.",
+        "related": [
+          "미국 증시",
+          "국채금리",
+          "원·달러"
+        ],
+        "source": {
+          "title": "BEA 공식 발표 일정",
+          "url": "https://www.bea.gov/news/schedule"
+        }
+      },
+      {
+        "title": "아마존 실적 컨퍼런스콜",
+        "kind": "기업 실적",
+        "local_date": "2026-10-29",
+        "local_time": "14:00",
+        "timezone": "America/Los_Angeles",
+        "watch": "AI 투자 확대가 매출·이익·현금흐름으로 연결되는지 확인합니다. 이 시각은 실적 공개 시각이 아닌 컨퍼런스콜 시각입니다.",
+        "related": [
+          "AMZN",
+          "반도체·AI"
+        ],
+        "source": {
+          "title": "Amazon 공식 컨퍼런스콜 공지",
+          "url": "https://press.aboutamazon.com/2026/10/amazon-com-to-webcast-third-quarter-2026-financial-results-conference-call"
+        }
+      }
+    ]
+  }
 }
