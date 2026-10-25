@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-25",
+  "status": "reviewed",
+  "sections": [
+    {
+      "category": "핵심 요약",
+      "title": "일요일 휴장: 10월 23일 종가로 월요일 위험 요인을 점검",
+      "body": [
+        "사실 | 2026년 10월 25일 일요일에는 한국·미국 정규 주식시장이 열리지 않는다. 한국시간 25일 오전 7시에 이용할 수 있는 가장 최근 정규장 종가는 양국 모두 10월 23일 금요일 거래분이다. 이 문서는 25일자 브리핑이며, 수치의 거래일은 23일이다.",
+        "사실 | 코스피는 5,550.30(+0.30%)으로 소폭 올랐지만 코스닥은 751.69(-1.62%)로 하락했다. 미국 S&P 500은 7,623.68(-0.52%), 나스닥 종합은 25,955.34(-0.21%), 다우는 52,215.16(-1.23%)로 모두 내렸다.",
+        "해석 | 국내 대형 반도체주가 코스피를 방어한 반면 시장 전반의 상승 참여는 약했다. 미국에서는 유가 급등과 국채금리 상승이 위험자산 선호를 압박했다. 월요일 한국 증시의 핵심 변수는 외국인 수급, 반도체 강세 지속, 원·달러 환율, 미국 금리·유가다."
+      ],
+      "sources": [
+        {
+          "title": "2026년 10월 23일 코스피 종가 및 일중 변동",
+          "url": "https://kr.investing.com/indices/kospi-historical-data"
+        },
+        {
+          "title": "2026년 10월 23일 코스닥 종가",
+          "url": "https://kr.investing.com/indices/kosdaq-historical-data"
+        },
+        {
+          "title": "AP: How major US stock indexes fared Friday 10/23/2026",
+          "url": "https://apnews.com/article/e07c72bc5cbe5dffe352ddf30054e35f"
+        },
+        {
+          "title": "WSJ: U.S. Stocks Fall as Oil Prices Hit Five-Month High",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-oil-prices-hit-five-month-high-a800db83"
+        }
+      ]
+    },
+    {
+      "category": "한국 증시",
+      "title": "코스피의 장중 급락 후 반등과 코스닥 약세는 서로 다른 신호",
+      "body": [
+        "사실 | 코스피는 10월 23일 5,403.17로 시작해 장중 5,305.98까지 밀렸으나 5,550.30으로 마감했다. 전일 5,533.77 대비 16.53포인트 상승이다. 코스닥은 전일 764.10에서 751.69로 12.41포인트 하락했다.",
+        "사실 | 코스콤 지연 시세를 인용한 시장 요약에서는 코스피·코스닥 합산 상승 종목 573개, 하락 종목 1,964개, 보합 111개로 나타났다. 집계 시각에 따라 종목 수는 달라질 수 있지만 하락 종목 우위라는 방향은 분명하다.",
+        "해석 | 코스피 지수의 종가만 보면 반등처럼 보이나, 상승 종목의 확산이 부족하다. 특정 대형주에 의존한 반등이라면 금리나 외국인 매매가 다시 악화될 때 쉽게 흔들릴 수 있다. 월요일에는 지수뿐 아니라 상승·하락 종목 수와 코스닥 상대 강도를 함께 봐야 한다."
+      ],
+      "sources": [
+        {
+          "title": "2026년 10월 23일 코스피 종가 및 일중 변동",
+          "url": "https://kr.investing.com/indices/kospi-historical-data"
+        },
+        {
+          "title": "2026년 10월 23일 코스닥 종가",
+          "url": "https://kr.investing.com/indices/kosdaq-historical-data"
+        },
+        {
+          "title": "10월 23일 코스피·코스닥 장 마감 시황(코스콤 지연 시세 기반)",
+          "url": "https://todaystk.kr/market/2026-10-23"
+        }
+      ]
+    },
+    {
+      "category": "한국 증시",
+      "title": "외국인 매도와 기관 방어: 수급의 질을 확인할 시점",
+      "body": [
+        "사실 | 10월 23일 투자자별 집계로 표시된 자료에서는 코스피 외국인 약 1조 1,028억 원 순매도, 기관 약 7,696억 원 순매수, 개인 약 2,639억 원 순매수다. 코스닥에서는 외국인 약 265억 원, 기관 약 291억 원 순매도로 제시된다. 이는 해당 제공처의 KRX 기반 표시 수치이며 최종 정정 여부는 거래소 확정 집계로 재확인해야 한다.",
+        "해석 | 기관이 지수 방어 역할을 했더라도 외국인 매도가 지속되면 반등의 지속성은 약해질 수 있다. 반대로 외국인 매도 규모가 축소되고 코스닥까지 매수세가 확산되면 반등의 신뢰도가 높아진다. 금요일 수급은 월요일 매매 방향을 보장하지 않는다."
+      ],
+      "sources": [
+        {
+          "title": "10월 23일 투자자별 매매동향(KRX 집계 표기, 잠정 확인 필요)",
+          "url": "https://www.alphapass.kr/today"
+        },
+        {
+          "title": "10월 23일 코스피·코스닥 장 마감 시황(코스콤 지연 시세 기반)",
+          "url": "https://todaystk.kr/market/2026-10-23"
+        }
+      ]
+    },
+    {
+      "category": "미국 증시",
+      "title": "다우 -1.23%: 유가·금리 부담이 기술주 밖으로 번지다",
+      "body": [
+        "사실 | 10월 23일 S&P 500은 39.75포인트 내린 7,623.68(-0.52%), 나스닥 종합은 53.52포인트 내린 25,955.34(-0.21%), 다우는 652.82포인트 내린 52,215.16(-1.23%)에 마감했다. 미국 10년물 국채금리는 약 4.99% 수준으로 올라섰다.",
+        "사실 | 브렌트유는 금요일 약 3.1% 상승해 배럴당 116달러를 넘었다. 중동 지역의 군사적 긴장과 공급 불확실성이 유가를 밀어 올렸다는 보도가 나왔다. 에너지주에는 수익 기대를 높일 수 있지만 항공·운송·소비재 등 비용 민감 업종에는 부담이다.",
+        "해석 | 유가 상승은 에너지 비용과 기대인플레이션을 자극하고, 이는 국채금리와 할인율을 높여 주식의 적정 가치에 압력을 줄 수 있다. 다우의 낙폭이 더 컸다는 사실은 기술주뿐 아니라 경기민감·전통 업종까지 부담이 퍼졌음을 시사하지만 단 하루 수익률만으로 장기 추세를 단정할 수 없다."
+      ],
+      "sources": [
+        {
+          "title": "AP: How major US stock indexes fared Friday 10/23/2026",
+          "url": "https://apnews.com/article/e07c72bc5cbe5dffe352ddf30054e35f"
+        },
+        {
+          "title": "WSJ: U.S. Stocks Fall as Oil Prices Hit Five-Month High",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-oil-prices-hit-five-month-high-a800db83"
+        }
+      ]
+    },
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스 +4.42% 대 엔비디아 -0.59%: 업황과 주가의 차이",
+      "body": [
+        "사실 | 10월 23일 삼성전자는 215,500원(+0.47%), SK하이닉스는 1,277,000원(+4.42%)에 마감했다. 엔비디아는 미국 정규장에서 210.96달러(-0.59%)로 마쳤다. 엔비디아는 전날인 22일에도 -4.40% 하락했다.",
+        "사실 | 로이터에 따르면 SK하이닉스는 미국 낸드 자회사 솔리다임의 미국 IPO 추진을 중단했다. 회사는 시장 변동성과 주주가치 우려를 고려했으며 사업의 성장 전망 자체가 바뀐 것은 아니라고 밝혔다.",
+        "해석 | 솔리다임 상장에 따른 기존 주주 가치 희석 우려가 완화된 점은 SK하이닉스에 단기 호재로 읽힐 수 있다. 그러나 미국 생산·투자 자금 조달 방식이라는 과제는 남는다. 엔비디아 약세는 AI 반도체 수요가 곧바로 주가 상승으로 이어지는 것이 아님을 보여준다. 대형 고객사의 설비투자 지속성과 수익화 속도를 동시에 살펴야 한다."
+      ],
+      "sources": [
+        {
+          "title": "10월 23일 코스피·코스닥 장 마감 시황(코스콤 지연 시세 기반)",
+          "url": "https://todaystk.kr/market/2026-10-23"
+        },
+        {
+          "title": "NVIDIA 2026년 10월 23일 종가 및 과거 가격",
+          "url": "https://stockanalysis.com/stocks/nvda/history/"
+        },
+        {
+          "title": "Reuters: SK Hynix puts US IPO of Solidigm on hold",
+          "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-drops-us-ipo-plan-solidigm-newspaper-reports-2026-10-22/"
+        }
+      ]
+    },
+    {
+      "category": "글로벌 경제",
+      "title": "원·달러 환율과 5%에 근접한 미국 10년물 금리",
+      "body": [
+        "사실 | 국제 외환시장 일별 데이터 제공처의 10월 23일 USD/KRW 종가는 달러당 1,323.97원으로, 전일 1,325.60원보다 약 1.63원 낮다. 이는 해당 제공처의 일별 종가이지 서울 외환시장 공식 주간 종가와 동일한 기준은 아니다. 환율 제공처·마감 시각에 따라 수치가 달라질 수 있다.",
+        "사실 | 미국 10년물 국채금리는 10월 23일 약 4.99%로 보도됐다. 10월 27~28일 예정된 FOMC를 앞두고 로이터가 20일 보도한 전문가 조사에서는 10월 금리 동결 전망이 우세했으며, 이후 정책 경로에 대한 경계가 컸다.",
+        "해석 | 원화가 안정되면 한국 주식에 대한 환차손 우려가 완화될 수 있지만 외국인 순매수를 보장하지 않는다. 미국 국채금리가 5% 안팎에서 상승세를 이어가면 성장주 할인율과 신흥시장 자금 흐름에 불리할 수 있다. 반대로 유가·금리가 진정되면 반도체 중심의 위험선호가 회복될 여지가 있다."
+      ],
+      "sources": [
+        {
+          "title": "USD/KRW 2026년 10월 23일 일별 환율 기록",
+          "url": "https://www.poundsterlinglive.com/history/usd-krw-2026"
+        },
+        {
+          "title": "AP: How major US stock indexes fared Friday 10/23/2026",
+          "url": "https://apnews.com/article/e07c72bc5cbe5dffe352ddf30054e35f"
+        },
+        {
+          "title": "Reuters: Fed to skip October but raise rates again in December, economists say",
+          "url": "https://www.reuters.com/business/fed-skip-october-raise-rates-again-december-nearly-all-economists-say-2026-10-20/"
+        }
+      ]
+    },
+    {
+      "category": "핵심 뉴스",
+      "title": "다음 주 FOMC와 빅테크 실적: AI 투자의 수익성 검증",
+      "body": [
+        "사실 | 미국 연방준비제도 공식 일정상 FOMC는 10월 27~28일 열리며, 이번 10월 회의는 정례 경제전망(SEP) 발표 회의가 아니다. 따라서 금리 결정뿐 아니라 성명과 기자회견의 물가·금리 경로 표현이 중요하다.",
+        "사실 | 로이터의 다음 주 전망에서는 마이크로소프트·알파벳·아마존 등 주요 기술기업 실적과 AI 관련 자본지출이 핵심 관전 포인트로 제시됐다. 투자자는 데이터센터 투자 확대가 매출·이익·현금흐름으로 얼마나 연결되는지 확인하게 된다.",
+        "해석 | 빅테크의 투자 확대는 HBM·메모리·서버 부품 수요에는 긍정적이지만, 투자의 회수 기간이 길어질 경우 밸류에이션과 자금조달 비용에는 부담이다. 호실적에도 주가가 하락할 수 있으므로 매출 성장률 외에 향후 설비투자, 마진, 현금흐름 가이던스를 확인해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "Federal Reserve: FOMC meeting calendars (2026)",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        },
+        {
+          "title": "Reuters: Take Five — AI trade meets the Fed",
+          "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-10-23/"
+        },
+        {
+          "title": "Reuters: Fed to skip October but raise rates again in December, economists say",
+          "url": "https://www.reuters.com/business/fed-skip-october-raise-rates-again-december-nearly-all-economists-say-2026-10-20/"
+        }
+      ]
+    },
+    {
+      "category": "시장 전망",
+      "title": "10월 26일 월요일: 반등 연장과 재하락을 가르는 조건",
+      "body": [
+        "전제 | 오늘 10월 25일은 휴장이다. 아래 내용은 다음 거래일인 26일 월요일 한국 증시에 대한 조건부 시나리오이지 확정 전망이나 매매 지시가 아니다. 월요일 개장 전 새로운 중동·금리·환율 뉴스가 발생하면 전제를 다시 점검해야 한다.",
+        "상방 시나리오 | 외국인 순매도 규모가 줄고 삼성전자·SK하이닉스의 매수세가 유지되며 코스닥 상승 종목 수가 늘어난다면 금요일 코스피 반등이 시장 전반으로 확산될 가능성이 있다. 이때는 반도체 업종의 상승이 다른 업종으로 연결되는지 확인한다.",
+        "하방 시나리오 | 브렌트유의 추가 상승, 미국 10년물 금리 5% 상향 돌파, 원화 약세, 외국인 대형주 매도가 겹치면 금요일 반등은 일시적 기술적 반등으로 끝날 수 있다. 코스피 장중 저점 5,305.98은 직전 거래일 변동성을 가늠하는 참고치이지 확정 지지선은 아니다.",
+        "핵심 체크 | ① 외국인 현·선물 순매매 ② 코스피와 코스닥 상승·하락 종목 비율 ③ 삼성전자·SK하이닉스 거래대금과 상대강도 ④ 원·달러 환율 ⑤ 브렌트유와 미국 10년물 금리 ⑥ FOMC 및 미국 빅테크 실적 기대의 변화. 단기 가격보다 수급과 상승 참여의 폭을 함께 읽는 것이 중요하다."
+      ],
+      "sources": [
+        {
+          "title": "2026년 10월 23일 코스피 종가 및 일중 변동",
+          "url": "https://kr.investing.com/indices/kospi-historical-data"
+        },
+        {
+          "title": "2026년 10월 23일 코스닥 종가",
+          "url": "https://kr.investing.com/indices/kosdaq-historical-data"
+        },
+        {
+          "title": "10월 23일 투자자별 매매동향(KRX 집계 표기, 잠정 확인 필요)",
+          "url": "https://www.alphapass.kr/today"
+        },
+        {
+          "title": "WSJ: U.S. Stocks Fall as Oil Prices Hit Five-Month High",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-oil-prices-hit-five-month-high-a800db83"
+        },
+        {
+          "title": "Federal Reserve: FOMC meeting calendars (2026)",
+          "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        }
+      ]
+    }
+  ]
+}
