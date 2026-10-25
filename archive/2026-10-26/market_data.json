@@ -1,5 +1,5 @@
 {
-  "generated_at_kst": "2026-10-26T07:01:47.442384+09:00",
+  "generated_at_kst": "2026-10-26T08:52:45.204993+09:00",
   "status": "complete",
   "records": [
     {
@@ -76,9 +76,9 @@
       "name": "USD/KRW",
       "symbol": "KRW=X",
       "session_date": "2026-10-25",
-      "close": 1323.45,
+      "close": 1323.72,
       "previous_close": 1325.99,
-      "change_pct": -0.192,
+      "change_pct": -0.171,
       "currency_or_unit": "KRW per USD",
       "source": "Yahoo Finance (unofficial yfinance)"
     }
@@ -86,53 +86,13 @@
   "failures": {},
   "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing.",
   "market_context": {
-    "status": "complete",
-    "collected_at_kst": "2026-10-26T07:01:49.851605+09:00",
-    "markets": [
-      {
-        "market": "KOSPI",
-        "session_date": "2026-10-23",
-        "asof_kst": "2026-10-23T20:15:00+09:00",
-        "source": "Npay 증권",
-        "source_url": "https://m.stock.naver.com/domestic/index/KOSPI/total",
-        "scope": "네이버 지수 화면 집계",
-        "breadth": {
-          "advancing": 173,
-          "unchanged": 23,
-          "declining": 719,
-          "upper_limit": 2,
-          "lower_limit": 0
-        },
-        "net_buy": {
-          "individual": 422,
-          "foreign": -9811,
-          "institution": 8682
-        },
-        "flow_unit": "억원"
-      },
-      {
-        "market": "KOSDAQ",
-        "session_date": "2026-10-23",
-        "asof_kst": "2026-10-23T20:15:00+09:00",
-        "source": "Npay 증권",
-        "source_url": "https://m.stock.naver.com/domestic/index/KOSDAQ/total",
-        "scope": "네이버 지수 화면 집계",
-        "breadth": {
-          "advancing": 404,
-          "unchanged": 81,
-          "declining": 1248,
-          "upper_limit": 8,
-          "lower_limit": 0
-        },
-        "net_buy": {
-          "individual": 659,
-          "foreign": -401,
-          "institution": -292
-        },
-        "flow_unit": "억원"
-      }
-    ],
-    "failures": {}
+    "status": "unavailable",
+    "collected_at_kst": "2026-10-26T08:52:47.686164+09:00",
+    "markets": [],
+    "failures": {
+      "KOSPI": "ValueError: Source market is not closed",
+      "KOSDAQ": "ValueError: Source market is not closed"
+    }
   },
   "sector_snapshot": {
     "status": "complete",
@@ -266,6 +226,6 @@
         "representative": "KCC"
       }
     ],
-    "collected_at_kst": "2026-10-26T07:01:50.845398+09:00"
+    "collected_at_kst": "2026-10-26T08:52:48.886163+09:00"
   }
 }
