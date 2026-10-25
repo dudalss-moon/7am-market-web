@@ -1,5 +1,5 @@
 {
-  "generated_at_kst": "2026-10-25T11:40:15.895251+09:00",
+  "generated_at_kst": "2026-10-25T12:00:41.044497+09:00",
   "status": "complete",
   "records": [
     {
@@ -84,5 +84,54 @@
     }
   ],
   "failures": {},
-  "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing."
+  "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing.",
+  "market_context": {
+    "status": "complete",
+    "collected_at_kst": "2026-10-25T12:00:43.188040+09:00",
+    "markets": [
+      {
+        "market": "KOSPI",
+        "session_date": "2026-10-23",
+        "asof_kst": "2026-10-23T20:15:00+09:00",
+        "source": "Npay 증권",
+        "source_url": "https://m.stock.naver.com/domestic/index/KOSPI/total",
+        "scope": "네이버 지수 화면 집계",
+        "breadth": {
+          "advancing": 173,
+          "unchanged": 23,
+          "declining": 719,
+          "upper_limit": 2,
+          "lower_limit": 0
+        },
+        "net_buy": {
+          "individual": 422,
+          "foreign": -9811,
+          "institution": 8682
+        },
+        "flow_unit": "억원"
+      },
+      {
+        "market": "KOSDAQ",
+        "session_date": "2026-10-23",
+        "asof_kst": "2026-10-23T20:15:00+09:00",
+        "source": "Npay 증권",
+        "source_url": "https://m.stock.naver.com/domestic/index/KOSDAQ/total",
+        "scope": "네이버 지수 화면 집계",
+        "breadth": {
+          "advancing": 404,
+          "unchanged": 81,
+          "declining": 1248,
+          "upper_limit": 8,
+          "lower_limit": 0
+        },
+        "net_buy": {
+          "individual": 659,
+          "foreign": -401,
+          "institution": -292
+        },
+        "flow_unit": "억원"
+      }
+    ],
+    "failures": {}
+  }
 }
