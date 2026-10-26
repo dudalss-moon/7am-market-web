@@ -1,5 +1,5 @@
 {
-  "generated_at_kst": "2026-10-26T08:52:45.204993+09:00",
+  "generated_at_kst": "2026-10-27T07:06:05.021907+09:00",
   "status": "complete",
   "records": [
     {
@@ -25,60 +25,60 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "session_date": "2026-10-23",
-      "close": 7623.6802,
-      "previous_close": 7663.4302,
-      "change_pct": -0.519,
+      "session_date": "2026-10-26",
+      "close": 7676.77,
+      "previous_close": 7623.6802,
+      "change_pct": 0.696,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "session_date": "2026-10-23",
-      "close": 25955.3398,
-      "previous_close": 26008.8594,
-      "change_pct": -0.206,
+      "session_date": "2026-10-26",
+      "close": 26169.3809,
+      "previous_close": 25955.3398,
+      "change_pct": 0.825,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
     {
       "name": "Samsung Electronics",
       "symbol": "005930.KS",
-      "session_date": "2026-10-23",
-      "close": 215500.0,
-      "previous_close": 214500.0,
-      "change_pct": 0.466,
+      "session_date": "2026-10-26",
+      "close": 213000.0,
+      "previous_close": 215500.0,
+      "change_pct": -1.16,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
     {
       "name": "SK Hynix",
       "symbol": "000660.KS",
-      "session_date": "2026-10-23",
-      "close": 1277000.0,
-      "previous_close": 1223000.0,
-      "change_pct": 4.415,
+      "session_date": "2026-10-26",
+      "close": 1275000.0,
+      "previous_close": 1277000.0,
+      "change_pct": -0.157,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
     {
       "name": "NVIDIA",
       "symbol": "NVDA",
-      "session_date": "2026-10-23",
-      "close": 210.96,
-      "previous_close": 212.21,
-      "change_pct": -0.589,
+      "session_date": "2026-10-26",
+      "close": 216.0,
+      "previous_close": 210.96,
+      "change_pct": 2.389,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
     {
       "name": "USD/KRW",
       "symbol": "KRW=X",
-      "session_date": "2026-10-25",
-      "close": 1323.72,
+      "session_date": "2026-10-26",
+      "close": 1325.17,
       "previous_close": 1325.99,
-      "change_pct": -0.171,
+      "change_pct": -0.062,
       "currency_or_unit": "KRW per USD",
       "source": "Yahoo Finance (unofficial yfinance)"
     }
@@ -87,11 +87,11 @@
   "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing.",
   "market_context": {
     "status": "unavailable",
-    "collected_at_kst": "2026-10-26T08:52:47.686164+09:00",
+    "collected_at_kst": "2026-10-27T07:06:07.716786+09:00",
     "markets": [],
     "failures": {
-      "KOSPI": "ValueError: Source market is not closed",
-      "KOSDAQ": "ValueError: Source market is not closed"
+      "KOSPI": "ValueError: Source session mismatch",
+      "KOSDAQ": "ValueError: Source session mismatch"
     }
   },
   "sector_snapshot": {
@@ -226,6 +226,6 @@
         "representative": "KCC"
       }
     ],
-    "collected_at_kst": "2026-10-26T08:52:48.886163+09:00"
+    "collected_at_kst": "2026-10-27T07:06:08.841594+09:00"
   }
 }
