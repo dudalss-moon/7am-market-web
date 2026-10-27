@@ -1,5 +1,5 @@
 {
-  "generated_at_kst": "2026-10-28T08:34:45.128701+09:00",
+  "generated_at_kst": "2026-10-28T08:39:27.878266+09:00",
   "status": "complete",
   "records": [
     {
@@ -76,9 +76,9 @@
       "name": "USD/KRW",
       "symbol": "KRW=X",
       "session_date": "2026-10-27",
-      "close": 1326.1801,
+      "close": 1326.4,
       "previous_close": 1321.76,
-      "change_pct": 0.334,
+      "change_pct": 0.351,
       "currency_or_unit": "KRW per USD",
       "source": "Yahoo Finance (unofficial yfinance)"
     }
@@ -87,7 +87,7 @@
   "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing.",
   "market_context": {
     "status": "unavailable",
-    "collected_at_kst": "2026-10-28T08:34:47.797734+09:00",
+    "collected_at_kst": "2026-10-28T08:39:30.934908+09:00",
     "markets": [],
     "failures": {
       "KOSPI": "ValueError: Source market is not closed",
@@ -226,6 +226,6 @@
         "representative": "KCC"
       }
     ],
-    "collected_at_kst": "2026-10-28T08:34:49.004138+09:00"
+    "collected_at_kst": "2026-10-28T08:39:32.428777+09:00"
   }
 }
