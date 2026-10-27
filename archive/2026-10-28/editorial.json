@@ -248,6 +248,81 @@
       ]
     }
   ],
+  "market_snapshot": {
+    "as_of": "2026-10-28T07:00:00+09:00",
+    "records": [
+      {
+        "name": "KOSPI",
+        "session_date": "2026-10-27",
+        "close": 5638.34,
+        "change_pct": 3.09,
+        "source": {
+          "title": "코스콤 출처 국내 마감 시황",
+          "url": "https://todaystk.kr/market/2026-10-27"
+        }
+      },
+      {
+        "name": "KOSDAQ",
+        "session_date": "2026-10-27",
+        "close": 743.83,
+        "change_pct": 2.29,
+        "source": {
+          "title": "코스콤 출처 국내 마감 시황",
+          "url": "https://todaystk.kr/market/2026-10-27"
+        }
+      },
+      {
+        "name": "S&P 500",
+        "session_date": "2026-10-27",
+        "close": 7722.6,
+        "change_pct": 0.6,
+        "source": {
+          "title": "Reuters 미국 증시 마감",
+          "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27/"
+        }
+      },
+      {
+        "name": "NASDAQ",
+        "session_date": "2026-10-27",
+        "close": 26477.81,
+        "change_pct": 1.18,
+        "source": {
+          "title": "Reuters 미국 증시 마감",
+          "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27/"
+        }
+      },
+      {
+        "name": "Dow Jones",
+        "session_date": "2026-10-27",
+        "close": 52377.57,
+        "change_pct": 0.03,
+        "source": {
+          "title": "Reuters 미국 증시 마감",
+          "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27/"
+        }
+      },
+      {
+        "name": "Samsung Electronics",
+        "session_date": "2026-10-27",
+        "close": 222000,
+        "change_pct": 4.23,
+        "source": {
+          "title": "코스콤 출처 국내 마감 시황",
+          "url": "https://todaystk.kr/market/2026-10-27"
+        }
+      },
+      {
+        "name": "SK Hynix",
+        "session_date": "2026-10-27",
+        "close": 1341000,
+        "change_pct": 5.18,
+        "source": {
+          "title": "코스콤 출처 국내 마감 시황",
+          "url": "https://todaystk.kr/market/2026-10-27"
+        }
+      }
+    ]
+  },
   "summary_cards": [
     {
       "title": "반도체 두 대형주 강세",
