@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-10-28",
+      "title": "한미 동반 상승: 반도체 강세와 FOMC 경계가 공존",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5469.4702,
+          "change_pct": -1.456,
+          "session_date": "2026-10-26"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 727.21,
+          "change_pct": -3.257,
+          "session_date": "2026-10-26"
+        }
+      ]
+    },
+    {
       "date": "2026-10-27",
       "title": "미국은 반등, 한국은 하락: 방향이 갈린 월요일",
       "has_analysis": true,
