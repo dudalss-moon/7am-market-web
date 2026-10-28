@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-10-29",
+      "title": "10월 29일 아침: 코스피 급등 뒤, 연준 동결과 빅테크 실적의 시험",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5638.3398,
+          "change_pct": 3.087,
+          "session_date": "2026-10-27"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 743.83,
+          "change_pct": 2.285,
+          "session_date": "2026-10-27"
+        }
+      ]
+    },
+    {
       "date": "2026-10-28",
       "title": "한미 동반 상승: 반도체 강세와 FOMC 경계가 공존",
       "has_analysis": true,

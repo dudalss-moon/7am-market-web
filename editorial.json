@@ -1,529 +1,461 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "status": "reviewed",
   "sections": [
     {
       "category": "핵심 요약",
-      "title": "한미 동반 상승: 반도체 강세와 FOMC 경계가 공존",
+      "title": "10월 29일 아침: 코스피 급등 뒤, 연준 동결과 빅테크 실적의 시험",
       "body": [
-        "확인된 사실 | 10월 27일 한국 코스피 5,638.34(+3.09%), 코스닥 743.83(+2.29%)였다. 미국 같은 날짜 종가는 S&P 500 7,722.60(+0.60%), 나스닥 26,477.81(+1.18%), 다우 52,377.57(+0.03%)였다. 10월 28일 오전 7시 기준 양국 모두 직전 거래일은 27일이다.",
-        "해석 | 미국 AI 기술주 반등과 국내 반도체 대형주 매수가 동시에 나타났다. 다만 미국 다우 상승률이 제한적이고 FOMC가 임박해 하루 상승을 장기 추세 확정으로 보기 어렵다.",
-        "관전 포인트 | 오늘 SK하이닉스 실적·주주환원 발표와 외국인 수급, 코스닥 시장 폭, FOMC를 앞둔 국채금리 움직임이 중요하다."
+        "사실 | 한국 10월 28일 정규장 코스피는 6,012.44(+6.63%), 코스닥은 771.28(+3.69%)에 마쳤다. 미국 10월 28일 정규장 S&P 500은 7,743.98(+0.28%), 나스닥 종합은 26,549.85(+0.27%), 다우는 52,475.10(+0.19%)이었다. 미국 등락률은 AP가 제시한 종가·전일 종가로 계산한 반올림 값이며, AP 보도는 각각 약 +0.3%, +0.3%, +0.2%로 표기했다.",
+        "사실 | 연준은 10월 28일 기준금리 목표 범위를 3.75~4.00%로 유지했다. 한국의 반도체 강세를 주도한 SK하이닉스의 3분기 잠정 매출은 104.6155조원, 영업이익은 83.3338조원이다. 그러나 미국 장 마감 후 발표된 알파벳 실적은 AI 클라우드 고성장과 대규모 투자·현금흐름 부담을 동시에 드러냈다.",
+        "해석 | 오늘 국내장은 전날 급등을 그대로 연장하기보다 삼성전자 세부 실적, 원·달러 환율, 외국인 현물·선물 수급, 미국 빅테크 시간외 반응을 함께 확인해야 한다. 강한 메모리 수익성과 AI 투자 회수에 대한 의구심이 같은 시장에서 공존한다."
       ],
       "sources": [
         {
-          "title": "코스콤 출처 10월 27일 국내 마감 시황",
-          "url": "https://todaystk.kr/market/2026-10-27"
+          "title": "연합뉴스 10월 28일 한국 증시 마감",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261028142451008"
         },
         {
-          "title": "Reuters 10월 27일 미국 증시 마감",
-          "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27/"
+          "title": "AP 10월 28일 미국 3대 지수 마감",
+          "url": "https://www.aol.com/articles/major-us-stock-indexes-fared-202041000.html"
         },
         {
-          "title": "SK하이닉스 3분기 실적 발표·컨퍼런스콜 공식 초청",
-          "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/"
-        },
-        {
-          "title": "미국 연준 2026년 10월 공식 일정",
-          "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+          "title": "미국 연방준비제도 10월 28일 성명",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
         }
       ]
     },
     {
       "category": "한국 증시",
-      "title": "국내 증시와 시장 폭: 코스피 3.09% 반등",
+      "title": "6,000선 회복의 구성: 외국인·기관의 코스피 매수, 코스닥은 다른 수급",
       "body": [
-        "확인된 사실 | 코스콤 출처를 표기한 10월 27일 15:35 기준 20분 지연 마감 자료에서 코스피는 전일보다 168.87포인트(+3.09%), 코스닥은 16.62포인트(+2.29%) 올랐다. 코스피 상승 595·하락 275종목, 코스닥 상승 1,094·하락 545종목으로 상승 종목이 더 많았다.",
-        "확인된 사실 | 같은 제공처의 24개 주요 업종 타일에서는 반도체 +4.81%, 전기전자 +4.04%, 2차전지/에너지 +2.92%가 강했고 바이오/제약 -2.12%, 화장품/뷰티 -0.89%는 약했다. 전체 상장업종의 절대 순위가 아닌 해당 사이트의 시총가중·업종 분류다.",
-        "해석 | 전날 급락 후 코스닥까지 상승 종목이 늘어난 점은 반등의 폭이 넓어졌다는 신호다. 다만 업종별 강약 차이가 커 시장 전반의 균등한 개선은 아니다."
+        "사실 | 10월 28일 코스피는 374.10포인트 상승했고 장중 6,032.28까지 올랐다. 유가증권시장 정규장 기준 연합뉴스 집계에서 외국인은 8,228억원, 기관은 9,607억원 순매수했고 개인은 1조8,016억원 순매도했다. 이틀 연속 매수 사이드카가 발동했다. 집계 매체·대체거래소 포함 여부에 따라 순매수액은 다르므로 이 숫자를 넥스트레이드 합산치와 섞지 않는다.",
+        "사실 | 코스닥은 27.45포인트 오른 771.28로 마감했지만 외국인은 1,834억원, 개인은 309억원 순매도, 기관은 2,241억원 순매수했다. 코스피에서는 전기·전자(+9.02%)와 보험(+6.43%) 등이 강했고 비금속(-0.33%) 등 일부 업종은 하락했다. 코스닥에서는 로봇과 반도체 장비주가 상대적으로 강했다.",
+        "해석 | 지수의 상승률만으로 시장 전반의 균등한 매수라고 보기는 어렵다. 코스피 대형 반도체의 비중과 코스닥 외국인 순매도를 감안하면, 오늘은 반도체 이외 업종으로 매수세가 확산되는지와 전날 외국인 매수의 연속성을 나눠 봐야 한다."
       ],
       "sources": [
         {
-          "title": "코스콤 출처 10월 27일 국내 마감 시황",
-          "url": "https://todaystk.kr/market/2026-10-27"
-        }
-      ]
-    },
-    {
-      "category": "한국 증시",
-      "title": "외국인·기관 매수, 집계 범위는 주의",
-      "body": [
-        "확인된 사실 | 10월 27일 돈의 강 자료는 KRX+NXT 합산·일부 종목 수신을 명시하며 외국인 +8,659억원, 기관 +6,389억원, 개인 약 -1.7조원 순매매를 표시한다. 전체 KRX 정규장 확정 원본이나 코스피 단독 수급으로 취급할 수 없는 제공처 집계다.",
-        "확인된 사실 | 같은 집계에서 외국인은 삼성전자 +3,441억원 순매수, SK하이닉스 -715억원 순매도였다. 기관은 SK하이닉스 +2,037억원, 삼성전자 +2,020억원 순매수로 나타났다. 반도체 안에서도 투자자별 선호가 달랐다.",
-        "해석 | 외국인·기관 동반 매수는 전날 약세에서 회복되는 신호일 수 있다. 그러나 표본 집계와 정규장 확정 수급의 차이, 종목별 엇갈림을 고려해야 한다.",
-        "관전 포인트 | 오늘 외국인 현물·선물 수급, 반도체 거래대금과 코스닥 상승 종목 수를 함께 확인한다."
-      ],
-      "sources": [
-        {
-          "title": "10월 27일 KRX+NXT 일부 종목 수급 집계",
-          "url": "https://money-river.kr/day/2026-10-27"
+          "title": "연합뉴스 코스피·코스닥 마감과 투자자별 수급",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261028142451008"
         },
         {
-          "title": "코스콤 출처 10월 27일 국내 마감 시황",
-          "url": "https://todaystk.kr/market/2026-10-27"
+          "title": "한양경제 10월 28일 마감 시황",
+          "url": "https://www.hanyangeconomy.com/news/articleView.html?idxno=10510"
         }
       ]
     },
     {
       "category": "반도체·AI",
-      "title": "삼성전자 222,000원, SK하이닉스 1,341,000원",
+      "title": "SK하이닉스의 잠정 사상 최대 실적과 주주환원, 지속성의 조건",
       "body": [
-        "확인된 사실 | 코스콤 출처를 표기한 10월 27일 마감 자료에서 삼성전자는 222,000원(+4.23%), SK하이닉스는 1,341,000원(+5.18%)이었다. 두 종목의 거래대금은 각각 약 3조원과 3.8조원이다.",
-        "확인된 사실 | 미국 엔비디아의 27일 일별 시세는 제공처에 따라 약 217달러 후반, +0.8~0.9%로 표시됐다. 조회 시점에 따라 값이 달라 정확 종가를 하나의 확정치로 제시하지 않는다.",
-        "해석 | AI 서버 투자와 메모리 수요에 대한 기대가 반도체 투자심리에 긍정적으로 작용할 수 있다. 그러나 실적 성장 기대가 이미 주가에 반영됐을 가능성도 평가해야 한다.",
-        "관전 포인트 | 오늘 SK하이닉스 실적에서 HBM 공급·메모리 가격, 설비투자와 주주환원 확정안을 분리해 살핀다."
+        "사실 | SK하이닉스가 10월 28일 공시성 보도자료로 발표한 2026년 3분기 잠정 매출은 104.6155조원(+32% 전분기 대비), 영업이익은 83.3338조원(+38%), 영업이익률은 80%다. HBM4·서버 DDR5·데이터센터 eSSD의 판매 확대를 설명했고, 2027~2028년 생산능력의 50% 이상에 장기계약을 확보했다고 밝혔다. 회사 발표치는 외부 감사 전 잠정 수치다.",
+        "사실 | 회사는 2026년 약 100조원 규모 주주환원 계획을 설명했다. 이는 현금배당 30조원 이상과 자사주 취득·소각 60조원 이상 등을 포함한 연간 총계로, 60조원을 전부 신규 추가 현금배당으로 해석하면 안 된다. SK하이닉스 주가는 10월 28일 148만7,000원(+10.89%)으로 마감했다.",
+        "해석 | 높은 마진과 장기공급계약은 단기 실적 피크 우려를 완화하지만 고객의 AI 인프라 투자수익률이 낮아지거나 공급 증설 속도가 수요를 추월하면 가격·마진이 흔들릴 수 있다. 오늘은 주주환원 발표의 실제 집행과 메모리 가격·HBM 공급 계약의 지속성을 구분해 점검한다."
       ],
       "sources": [
         {
-          "title": "코스콤 출처 10월 27일 국내 마감 시황",
-          "url": "https://todaystk.kr/market/2026-10-27"
+          "title": "SK하이닉스 2026년 3분기 잠정 실적 공식 발표",
+          "url": "https://news.skhynix.com/en/q3-2026-business-results/"
         },
         {
-          "title": "Investing.com 엔비디아 일별 시세",
-          "url": "https://nl.investing.com/equities/nvidia-corp-historical-data"
+          "title": "Reuters SK하이닉스 실적과 주주환원",
+          "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-q3-profit-jumps-more-than-7-fold-beats-forecasts-2026-10-27/"
+        }
+      ]
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자 강세와 엔비디아의 미국장 약세: 반도체 내부도 차별화",
+      "body": [
+        "사실 | 삼성전자는 10월 28일 24만2,000원(+9.01%)에 마감했다. 삼성전자가 10월 8일 제시한 3분기 매출 195조원·영업이익 107.4조원은 결산 완료 전 잠정실적이다. 시장은 10월 29일 세부 실적·주주환원 설명을 주시하고 있으나, 이 시점에는 이를 확정 실적처럼 다루지 않는다.",
+        "사실 | 엔비디아는 미국 10월 28일 정규장에서 215.38달러(-1.17%)에 마감했다. 한국 반도체 대형주가 급등한 같은 날짜에도 미국 AI 대표 종목은 하락했다. 두 시장의 장 종료 시각과 정보 반영 순서가 달라 하루 등락을 직접 인과관계로 연결하면 안 된다.",
+        "해석 | 한국 메모리 가격·공급 타이트함에 대한 낙관과 미국 AI 컴퓨팅 업체의 자본비용·밸류에이션 우려가 공존한다. 삼성전자 세부 사업부 실적, HBM 고객 인증 및 투자계획이 강세 지속의 조건이고, 엔비디아 약세가 반도체 전반으로 확산되는지 확인해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "삼성전자 3분기 잠정실적 공식 발표",
+          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-2026%EB%85%84-3%EB%B6%84%EA%B8%B0-%EC%9E%A0%EC%A0%95%EC%8B%A4%EC%A0%81-%EB%B0%9C%ED%91%9C"
         },
         {
-          "title": "SK하이닉스 3분기 실적 발표·컨퍼런스콜 공식 초청",
-          "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/"
+          "title": "한국경제 삼성전자·SK하이닉스 10월 28일 시세",
+          "url": "https://markets.hankyung.com/indices/kospi"
+        },
+        {
+          "title": "NVIDIA 10월 28일 미국 정규장 종가",
+          "url": "https://stockanalysis.com/stocks/nvda/history/"
         }
       ]
     },
     {
       "category": "미국 증시",
-      "title": "미국 AI 기술주 주도 상승, 다우는 보합권",
+      "title": "미국 3대 지수 소폭 상승, 연준 금리 동결 뒤 채권금리는 출렁",
       "body": [
-        "확인된 사실 | Reuters에 따르면 10월 27일 S&P 500은 7,722.60(+45.83포인트, +0.60%), 나스닥 종합은 26,477.81(+308.43포인트, +1.18%), 다우는 52,377.57(+15.99포인트, +0.03%)였다. Boeing은 분기 손실 발표 후 약 10.7% 하락했다.",
-        "확인된 사실 | Reuters는 Anthropic 상장 관련 소식과 AI 관련 설비투자 기대가 반도체주 반등을 도왔다고 전했다. 동시에 AI 데이터센터 구축에 필요한 대규모 차입·자금조달 우려도 남아 있다고 보도했다.",
-        "해석 | 미국 지수 상승은 기술주 집중의 영향을 크게 받았다. AI 반도체 공급 기업의 매출 기회와 데이터센터 투자 기업의 현금흐름 부담은 함께 봐야 한다.",
-        "관전 포인트 | Microsoft·Amazon 실적에서 클라우드 성장률, AI 자본적지출, 현금흐름을 비교하고 FOMC 이후 금리 반응을 확인한다."
+        "사실 | 미국 10월 28일 S&P 500은 7,743.98(+21.38포인트), 나스닥 종합은 26,549.85(+72.04포인트), 다우는 52,475.10(+97.53포인트)으로 모두 소폭 올랐다. 정규장 지수의 플러스 마감과 개별 기술주·시간외 거래의 약세는 구분해야 한다.",
+        "사실 | 연준은 기준금리 목표 범위를 3.75~4.00%로 동결했다. 12명 중 10명이 동의했고 2명은 0.25%포인트 인상을 선호했다. 성명은 경제활동의 견조한 확장과 여전히 높은 인플레이션을 언급했다. AP는 발표 직후 미 2년물 금리가 올랐다가 이후 인상 기대가 줄며 반락했다고 전했다.",
+        "해석 | 동결 자체보다 다음 인상 여부에 대한 시장의 재평가가 중요하다. 금리 상승 기대가 강화되면 장기 현금흐름에 높은 가치를 부여하는 AI 성장주에 할인율 부담이 커지고, 반대로 금리가 안정되면 실적 개선이 주가에 반영될 여지가 있다."
       ],
       "sources": [
         {
-          "title": "Reuters 10월 27일 미국 증시 마감",
-          "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27/"
+          "title": "AP 미국 10월 28일 지수 마감 및 채권시장",
+          "url": "https://www.aol.com/articles/major-us-stock-indexes-fared-202041000.html"
         },
         {
-          "title": "Microsoft IR 2026-10-28 실적 공지",
-          "url": "https://www.microsoft.com/en-us/investor/default"
-        },
-        {
-          "title": "Amazon 2026년 3분기 실적 컨퍼런스콜 공식 공지",
-          "url": "https://press.aboutamazon.com/2026/10/amazon-com-to-webcast-third-quarter-2026-financial-results-conference-call"
+          "title": "연준 FOMC 10월 28일 공식 성명",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
         }
       ]
     },
     {
       "category": "글로벌 경제",
-      "title": "환율 1,325원대와 미 10년물 5% 근접",
+      "title": "미 국채 10년물 5.05%, 원·달러 1,337.7원: 위험자산의 할인율 점검",
       "body": [
-        "확인된 사실 | Investing.com 한국어판의 10월 27일 달러/원 일별 자료는 1,325.72원을 표시했다. 이는 서울 외환시장 공식 15:30 주간거래 종가와 기준이 다를 수 있고, 다른 지역판과도 소폭 차이가 있다.",
-        "확인된 사실 | 미국 10년물 국채금리는 27일 민간 일별 자료 기준 약 4.99%로 5%선 부근이었다. Reuters는 유가 하락과 중동 협상 기대가 미국 에너지주에 부담이었다고 전했다. 유가의 정확한 종가는 기준이 다른 자료를 혼용하지 않기 위해 제외했다.",
-        "해석 | 높은 장기금리는 성장주 가치평가와 AI 인프라 자금조달에 부담이다. 유가 안정은 물가 압력을 낮출 수 있지만 금리 불확실성을 제거하지는 못한다.",
-        "관전 포인트 | FOMC 성명 이후 10년물 5%선과 달러/원, 국제유가를 같은 시각 기준으로 확인한다."
+        "사실 | 미국 재무부 일일 파 수익률 자료에서 10월 28일 10년 만기는 5.05%, 2년 만기는 4.67%다. 전일 10년물 4.99%, 2년물 4.70%와 비교하면 장기물은 0.06%포인트 상승하고 단기물은 0.03%포인트 하락했다. 이 수치는 재무부가 산출한 3시30분 무렵 기준의 지표 금리이며 장중 실시간 호가가 아니다.",
+        "사실 | 10월 28일 오후 3시30분 서울 외환시장에서 원·달러 환율은 1,337.7원으로 전장보다 14.0원 상승했다. 환율 상승은 원화 약세를 뜻한다. 코스피의 강한 외국인 현물 순매수와 환율 상승이 동시에 나타났다는 점에 유의한다.",
+        "해석 | 한국 주식으로의 자금 유입만으로 원화 강세를 단정할 수 없고, 미 장기금리·국제유가·글로벌 달러 수요가 환율에 함께 영향을 준다. 원화 약세가 심화되고 미 장기금리가 재상승한다면 국내 성장주 밸류에이션의 상단이 제한될 수 있다."
       ],
       "sources": [
         {
-          "title": "Investing.com 원/달러 일별 시세",
-          "url": "https://kr.investing.com/currencies/usd-krw-historical-data"
+          "title": "미국 재무부 2026년 10월 일별 국채 수익률",
+          "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610"
         },
         {
-          "title": "Investing.com 미국 10년물 금리 일별 자료",
-          "url": "https://au.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data"
-        },
-        {
-          "title": "Reuters 10월 27일 미국 증시 마감",
-          "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27/"
+          "title": "연합뉴스 10월 28일 서울 외환시장 환율",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261028142451008"
         }
       ]
     },
     {
       "category": "핵심 뉴스",
-      "title": "한국 GDP +1.0% 속보: 수출 강세와 소비 약세",
+      "title": "미국 장 마감 뒤 마이크로소프트와 알파벳: AI 수요는 강하지만 투자수익률은 갈림길",
       "body": [
-        "확인된 사실 | Reuters가 보도한 한국은행 2026년 3분기 GDP 속보치는 전분기 대비 +1.0%로 시장 조사 중간값 +0.7%를 웃돌았다. 수출 +2.3%, 설비투자 +4.1%였지만 민간소비는 -0.2%였다. 속보치는 향후 수정될 수 있다.",
-        "해석 | 반도체 수출과 설비투자가 성장을 지탱했지만 민간소비 약세는 내수로 회복이 충분히 확산되지 않았음을 보여준다. GDP가 높다는 사실만으로 내수 관련주가 모두 강세일 것이라고 예측할 수 없다.",
-        "확인된 사실 | 한국은행의 조건부 분석을 인용한 Reuters 보도는 미국 AI 설비투자 둔화 시 한국 반도체 수출과 성장률에 큰 하방 위험이 생길 수 있다고 전했다. 이는 실제 발생한 수출 감소가 아닌 위험 시나리오다.",
-        "관전 포인트 | 반도체 수출 외 소비·고용의 회복, 미국 빅테크의 AI 투자 계획을 함께 점검한다."
+        "사실 | 마이크로소프트는 미국 10월 28일 장 마감 후 발표한 2027회계연도 1분기 매출 923억달러(+19% 전년 동기 대비), 영업이익 459억달러(+21%), Azure 매출 성장률 +48%를 공시했다. Microsoft Cloud 매출은 639억달러(+30%)였다. 이는 10월 28일 미국 정규장 종가 이후의 정보이므로 정규장 지수 상승의 직접 원인으로 소급하면 안 된다.",
+        "사실 | 알파벳의 2026년 3분기 매출은 약 1,276억달러(+25%), Google Cloud 매출은 약 307억달러(+103%)로 집계됐다. 그러나 Reuters 보도에 따르면 자유현금흐름은 약 90.7억달러 적자였고, 시간외 거래에서 주가가 6% 이상 하락했다. 시간외 등락률은 정규장 확정 종가가 아닌 변동 가능한 당시 보도 시점의 관측치다.",
+        "해석 | AI 클라우드 매출 성장은 반도체·전력·서버 수요를 뒷받침하지만, 고객의 투자 지출이 현금흐름을 훼손한다면 공급망 전반의 주가가 같은 방향으로 오르지 않을 수 있다. 오늘은 Azure·Google Cloud 성장률만이 아니라 AI 설비투자와 자유현금흐름, 기업별 시간외 주가를 함께 비교해야 한다."
       ],
       "sources": [
         {
-          "title": "Reuters 한국 3분기 GDP 속보 보도",
-          "url": "https://www.marketscreener.com/news/south-korea-q3-gdp-beats-forecasts-as-ai-chip-boom-boosts-exports-investments-ce785cdcd18af32d"
+          "title": "Microsoft FY27 Q1 공식 실적 발표",
+          "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast"
         },
         {
-          "title": "Reuters 한국은행 AI 설비투자 둔화 시나리오",
-          "url": "https://www.reuters.com/world/asia-pacific/bank-korea-warns-countrys-chip-exports-could-fall-by-up-100-billion-if-ai-2026-10-27/"
-        }
-      ]
-    },
-    {
-      "category": "반도체·AI",
-      "title": "오늘 SK하이닉스 실적: 발표 전 숫자와 확정치 구분",
-      "body": [
-        "확인된 사실 | SK하이닉스 공식 공지에 따르면 10월 28일 09:00 KST 이전 3분기 실적 보도자료를 공개하고 09:00에 컨퍼런스콜을 개최한다. 오전 07:00에는 발표 전이므로 실적이나 주주환원 확정액을 추정해 사실로 쓰지 않는다.",
-        "해석 | 주주환원 확대는 주당가치에 우호적일 수 있지만 메모리 증설과 해외 투자에 필요한 자금도 함께 평가해야 한다. 미확정 특별배당 규모를 확정된 공시로 취급해서는 안 된다.",
-        "관전 포인트 | HBM 수요와 DRAM·NAND 수익성, 설비투자, 영업현금흐름, 실제 의결된 주주환원안을 확인한다. 기대치와 발표 수치의 차이가 변동성을 키울 수 있다."
-      ],
-      "sources": [
+          "title": "Reuters 알파벳 클라우드와 현금흐름 실적 보도",
+          "url": "https://www.streetinsider.com/Reuters/Alphabets%2BGoogle%2BCloud%2Bunit%2Bbeats%2Bquarterly%2Brevenue%2Bestimates%2Bon%2Bsteady%2BAI%2Bdemand/27249195.html"
+        },
         {
-          "title": "SK하이닉스 3분기 실적 발표·컨퍼런스콜 공식 초청",
-          "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/"
+          "title": "뉴스1 알파벳 실적 발표와 시간외 주가",
+          "url": "https://www.fnnews.com/news/202610290529387305"
         }
       ]
     },
     {
       "category": "시장 전망",
-      "title": "28일 국내장: 추가 상승과 차익실현의 조건",
+      "title": "오늘 한국장: 6,000선 유지와 차익실현의 분기점",
       "body": [
-        "기본 시나리오 | 27일 한국 코스피 +3.09%, 코스닥 +2.29%와 미국 나스닥 +1.18%의 동반 상승은 반도체 중심 추가 상승 시도에 우호적이다. 다만 단기간 반등 폭이 크고 FOMC가 임박해 차익실현과 대기 수요가 맞설 수 있다.",
-        "상방 조건 | SK하이닉스 확정 실적·가이던스가 기대를 지지하고 외국인 현물 매수가 이어지며 코스닥 시장 폭이 유지되면 상승의 질이 개선될 수 있다. 미국 장기금리와 원화가 안정되면 우호적이다.",
-        "하방 조건 | 실적이 높더라도 과도한 기대에 못 미치거나 주주환원 발표가 보수적이면 차익실현이 나타날 수 있다. 미국 국채금리 5% 상회, 외국인 매도 재개, 코스닥 하락 종목 증가가 겹치면 반등의 지속성이 약해질 수 있다.",
-        "해석의 한계 | 이는 조건부 전망이며 목표지수·매수 추천이 아니다. 실제 09:00 이후 실적 발표와 개장 수급을 확인해 판단해야 한다."
+        "조건부 상방 시나리오 | 삼성전자 세부 실적에서 메모리 수익성·HBM 경쟁력이 재확인되고, 코스피 외국인 현물·선물 순매수가 이어지며 원·달러 환율과 미 장기금리가 안정되면 6,000선 안착과 반도체 이외 업종 확산을 시도할 수 있다. 이는 전망의 조건이지 이미 발생한 사실이 아니다.",
+        "조건부 하방 시나리오 | 전일 코스피 +6.63% 급등에 따른 차익실현, 알파벳 시간외 약세에 따른 AI 투자수익률 우려, 원화 약세와 미 10년물 5%대 금리 부담이 겹치면 6,000선 재이탈과 반도체 중심 변동성 확대 가능성이 있다.",
+        "관찰 우선순위 | 장 시작 전 미국 시간외 반응과 삼성전자 세부 실적 공지, 개장 뒤 외국인 현물·선물 매매와 코스피 6,000선 지지 여부, 코스닥 외국인 수급, 원·달러 환율을 순서대로 확인한다. 방향을 확정하기보다는 강한 실적과 높은 할인율 중 어느 쪽이 당일 가격 형성을 주도하는지 점검한다."
       ],
       "sources": [
         {
-          "title": "코스콤 출처 10월 27일 국내 마감 시황",
-          "url": "https://todaystk.kr/market/2026-10-27"
+          "title": "연합뉴스 한국 증시 및 10월 29일 삼성전자 관전 포인트",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261028142451008"
         },
         {
-          "title": "10월 27일 KRX+NXT 일부 종목 수급 집계",
-          "url": "https://money-river.kr/day/2026-10-27"
+          "title": "미국 연준 공식 금리 성명",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
         },
         {
-          "title": "SK하이닉스 3분기 실적 발표·컨퍼런스콜 공식 초청",
-          "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/"
-        },
-        {
-          "title": "Reuters 10월 27일 미국 증시 마감",
-          "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27/"
-        },
-        {
-          "title": "Investing.com 미국 10년물 금리 일별 자료",
-          "url": "https://au.investing.com/rates-bonds/u.s.-10-year-bond-yield-historical-data"
+          "title": "Reuters 알파벳 실적 이후 현금흐름 우려",
+          "url": "https://www.streetinsider.com/Reuters/Alphabets%2BGoogle%2BCloud%2Bunit%2Bbeats%2Bquarterly%2Brevenue%2Bestimates%2Bon%2Bsteady%2BAI%2Bdemand/27249195.html"
         }
       ]
     },
     {
       "category": "체크포인트",
-      "title": "오늘과 앞으로 일주일의 확인 순서",
+      "title": "향후 7일: 미국 GDP·PCE·아마존 실적 콜·JOLTS·무역수지",
       "body": [
-        "오늘 오전 | 09:00 이전 SK하이닉스 실적 자료, 09:00 컨퍼런스콜, 개장 직후 외국인 현·선물 수급과 삼성전자·SK하이닉스 거래대금을 확인한다. 코스닥 상승 종목 비율이 유지되는지도 중요하다.",
-        "이번 주 | 미국 28일 동부시간 14:00 FOMC 결정·성명과 14:30 기자회견, 29일 08:30 미국 GDP 속보·개인소득 및 지출, 29일 Amazon 실적 컨퍼런스콜, 30일 고용비용지수 발표가 공식 일정에 있다.",
-        "시각 주의 | Microsoft의 28일 실적은 공식 IR에서 날짜만 확인했으며 시각은 임의로 추정하지 않는다. SK하이닉스 실적 보도자료도 09:00 이전이라고만 발표돼 정확 시각은 미공개다.",
-        "자료 주의 | 국내 시세는 코스콤 출처를 표시한 20분 지연 자료, 수급은 KRX+NXT 일부 종목 수신, 미국 지수는 Reuters 마감 기사 기준이다. 서로 다른 집계 범위를 동일한 확정 원본으로 혼용하지 않는다."
+        "공식 일정 | 미국 BEA는 현지 10월 29일 오전 8시30분에 3분기 GDP 속보치와 9월 개인소득·지출(PCE 포함)을 발표할 예정이다. 아마존은 10월 29일 오후 2시 태평양시간에 3분기 실적 컨퍼런스콜을 연다고 공식 예고했다. 각 지표의 실제 발표값은 아직 확인 시점 이전이므로 적지 않는다.",
+        "공식 일정 | BLS는 11월 3일 오전 10시 미국 동부시간에 9월 JOLTS를, BEA는 11월 4일 오전 8시30분 동부시간에 9월 미국 무역수지를 발표할 예정이다. 미국의 서머타임 종료는 11월 1일이므로 날짜별 한국시간 환산에 주의한다.",
+        "해석 | GDP가 강하고 PCE 물가 압력이 높으면 금리 인상 우려가 재부각될 수 있으며, 성장 둔화와 물가 안정이 함께 나타나면 할인율 부담이 줄어들 수 있다. 아마존은 AWS 성장과 AI 설비투자의 현금 창출력, JOLTS는 노동수요의 냉각 여부가 핵심 관전 포인트다."
       ],
       "sources": [
         {
-          "title": "SK하이닉스 3분기 실적 발표·컨퍼런스콜 공식 초청",
-          "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/"
+          "title": "미국 BEA 2026년 공식 발표 일정",
+          "url": "https://www.bea.gov/news/schedule/full"
         },
         {
-          "title": "미국 연준 2026년 10월 공식 일정",
-          "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+          "title": "미국 BLS JOLTS 공식 발표 일정",
+          "url": "https://www.bls.gov/schedule/news_release/jolts.htm"
         },
         {
-          "title": "BEA 공식 통계 공표 일정",
-          "url": "https://www.bea.gov/news/schedule/"
-        },
-        {
-          "title": "BLS 고용비용지수 공식 일정",
-          "url": "https://www.bls.gov/schedule/news_release/eci.htm"
-        },
-        {
-          "title": "Amazon 2026년 3분기 실적 컨퍼런스콜 공식 공지",
+          "title": "Amazon 2026년 3분기 컨퍼런스콜 공식 공지",
           "url": "https://press.aboutamazon.com/2026/10/amazon-com-to-webcast-third-quarter-2026-financial-results-conference-call"
-        },
-        {
-          "title": "Microsoft IR 2026-10-28 실적 공지",
-          "url": "https://www.microsoft.com/en-us/investor/default"
-        },
-        {
-          "title": "코스콤 출처 10월 27일 국내 마감 시황",
-          "url": "https://todaystk.kr/market/2026-10-27"
-        },
-        {
-          "title": "10월 27일 KRX+NXT 일부 종목 수급 집계",
-          "url": "https://money-river.kr/day/2026-10-27"
         }
       ]
     }
   ],
   "market_snapshot": {
-    "as_of": "2026-10-28T07:00:00+09:00",
+    "as_of": "2026-10-29T07:05:22+09:00",
     "records": [
       {
         "name": "KOSPI",
-        "session_date": "2026-10-27",
-        "close": 5638.34,
-        "change_pct": 3.09,
+        "session_date": "2026-10-28",
+        "close": 6012.44,
+        "change_pct": 6.63,
         "source": {
-          "title": "코스콤 출처 국내 마감 시황",
-          "url": "https://todaystk.kr/market/2026-10-27"
+          "title": "연합뉴스 한국 10월 28일 마감",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261028142451008"
         }
       },
       {
         "name": "KOSDAQ",
-        "session_date": "2026-10-27",
-        "close": 743.83,
-        "change_pct": 2.29,
+        "session_date": "2026-10-28",
+        "close": 771.28,
+        "change_pct": 3.69,
         "source": {
-          "title": "코스콤 출처 국내 마감 시황",
-          "url": "https://todaystk.kr/market/2026-10-27"
+          "title": "연합뉴스 한국 10월 28일 마감",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261028142451008"
         }
       },
       {
         "name": "S&P 500",
-        "session_date": "2026-10-27",
-        "close": 7722.6,
-        "change_pct": 0.6,
+        "session_date": "2026-10-28",
+        "close": 7743.98,
+        "change_pct": 0.28,
         "source": {
-          "title": "Reuters 미국 증시 마감",
-          "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27/"
+          "title": "AP 미국 10월 28일 마감",
+          "url": "https://www.aol.com/articles/major-us-stock-indexes-fared-202041000.html"
         }
       },
       {
         "name": "NASDAQ",
-        "session_date": "2026-10-27",
-        "close": 26477.81,
-        "change_pct": 1.18,
+        "session_date": "2026-10-28",
+        "close": 26549.85,
+        "change_pct": 0.27,
         "source": {
-          "title": "Reuters 미국 증시 마감",
-          "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27/"
+          "title": "AP 미국 10월 28일 마감",
+          "url": "https://www.aol.com/articles/major-us-stock-indexes-fared-202041000.html"
         }
       },
       {
         "name": "Dow Jones",
-        "session_date": "2026-10-27",
-        "close": 52377.57,
-        "change_pct": 0.03,
+        "session_date": "2026-10-28",
+        "close": 52475.1,
+        "change_pct": 0.19,
         "source": {
-          "title": "Reuters 미국 증시 마감",
-          "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27/"
+          "title": "AP 미국 10월 28일 마감",
+          "url": "https://www.aol.com/articles/major-us-stock-indexes-fared-202041000.html"
         }
       },
       {
         "name": "Samsung Electronics",
-        "session_date": "2026-10-27",
-        "close": 222000,
-        "change_pct": 4.23,
+        "session_date": "2026-10-28",
+        "close": 242000,
+        "change_pct": 9.01,
         "source": {
-          "title": "코스콤 출처 국내 마감 시황",
-          "url": "https://todaystk.kr/market/2026-10-27"
+          "title": "한국경제 삼성전자 10월 28일 종가",
+          "url": "https://markets.hankyung.com/indices/kospi"
         }
       },
       {
         "name": "SK Hynix",
-        "session_date": "2026-10-27",
-        "close": 1341000,
-        "change_pct": 5.18,
+        "session_date": "2026-10-28",
+        "close": 1487000,
+        "change_pct": 10.89,
         "source": {
-          "title": "코스콤 출처 국내 마감 시황",
-          "url": "https://todaystk.kr/market/2026-10-27"
+          "title": "한국경제 SK하이닉스 10월 28일 종가",
+          "url": "https://markets.hankyung.com/indices/kospi"
+        }
+      },
+      {
+        "name": "NVIDIA",
+        "session_date": "2026-10-28",
+        "close": 215.38,
+        "change_pct": -1.17,
+        "source": {
+          "title": "NVIDIA 10월 28일 종가",
+          "url": "https://stockanalysis.com/stocks/nvda/history/"
+        }
+      },
+      {
+        "name": "USD/KRW",
+        "session_date": "2026-10-28",
+        "close": 1337.7,
+        "change_pct": 1.06,
+        "source": {
+          "title": "연합뉴스 15:30 서울 외환시장 원달러 14원 상승",
+          "url": "https://www.yna.co.kr/amp/view/AKR20261028142451008"
         }
       }
     ]
   },
   "summary_cards": [
     {
-      "title": "반도체 두 대형주 강세",
+      "title": "오늘 시장 한눈에",
+      "section": 1,
+      "bullets": [
+        "핵심 사실 | 한국 10월 28일 코스피 6,012.44(+6.63%), 코스닥 771.28(+3.69%); 미국 같은 날짜 S&P 500 7,743.98(+0.28%), 나스닥 26,549.85(+0.27%), 다우 52,475.10(+0.19%)로 마감했다.",
+        "시장 의미 | 한국 반도체 랠리와 미국의 완만한 지수 상승이 이어졌지만, 미국 장 마감 후 빅테크 실적에서는 AI 투자 부담이 다시 부각됐다.",
+        "관전 포인트 | 10월 29일 삼성전자 세부 실적과 외국인 수급, 환율·미 국채금리가 전날 급등의 지속성을 가를 조건이다."
+      ]
+    },
+    {
+      "title": "코스피 6,000선과 수급",
+      "section": 2,
+      "bullets": [
+        "핵심 사실 | 10월 28일 코스피에서 외국인 8,228억원·기관 9,607억원 순매수, 개인 1조8,016억원 순매도(연합뉴스 정규장 집계)였다. 코스닥 외국인은 1,834억원 순매도했다.",
+        "시장 의미 | 지수 급등에도 시장별 수급은 달랐으며 코스피 대형 반도체의 상승 기여가 컸다.",
+        "관전 포인트 | 오늘 외국인 현물·선물 순매수가 이어지는지, 코스닥과 비반도체 업종으로 확산되는지 확인한다."
+      ]
+    },
+    {
+      "title": "하이닉스 실적·주주환원",
+      "section": 3,
+      "bullets": [
+        "핵심 사실 | SK하이닉스 2026년 3분기 잠정 매출 104.6155조원, 영업이익 83.3338조원, 영업이익률 80%다. 2026년 약 100조원 주주환원 총계도 발표했다.",
+        "시장 의미 | HBM4·서버 메모리 수요와 장기계약은 실적 지속성 기대를 높였지만, 수치는 감사 전 잠정치이고 연간 환원액을 신규 배당으로 오해하면 안 된다.",
+        "관전 포인트 | 메모리 가격, 고객 AI 투자 지속성, 2027~2028년 장기계약 및 환원책 집행을 점검한다."
+      ]
+    },
+    {
+      "title": "삼성전자와 엔비디아",
       "section": 4,
       "bullets": [
-        "핵심 사실 | 27일 삼성전자 222,000원(+4.23%), SK하이닉스 1,341,000원(+5.18%)이었다. 코스콤 출처 20분 지연 마감 자료 기준이다.",
-        "시장 의미 | AI 메모리 수요 기대가 반도체주 투자심리에 우호적이지만 이미 반영된 기대도 살펴야 한다.",
-        "관전 포인트 | 오늘 SK하이닉스 HBM 공급, 설비투자, 주주환원 확정안과 엔비디아 후속 흐름을 확인한다."
+        "핵심 사실 | 삼성전자는 10월 28일 24만2,000원(+9.01%), SK하이닉스는 148만7,000원(+10.89%)에 마감했다. 엔비디아는 미국 같은 날짜 215.38달러(-1.17%)였다.",
+        "시장 의미 | 한국 메모리 실적 기대와 미국 AI 대표주의 밸류에이션 부담이 동시에 나타나 반도체 내부 차별화가 확인됐다.",
+        "관전 포인트 | 삼성전자 10월 29일 세부 실적과 HBM·메모리 사업 설명, 엔비디아 약세의 확산 여부를 본다."
       ]
     },
     {
-      "title": "미국 AI 반등, 다우는 보합",
+      "title": "미국 지수와 연준",
       "section": 5,
       "bullets": [
-        "핵심 사실 | 27일 S&P 500 +0.60%, 나스닥 +1.18%, 다우 +0.03%였다. Reuters는 AI 기술주 중심의 상승을 보도했다.",
-        "시장 의미 | AI 수요 확대는 반도체 매출 기회지만 데이터센터 투자기업의 차입과 현금흐름 부담도 있다.",
-        "관전 포인트 | 미국 빅테크 실적에서 클라우드 성장과 AI 투자지출·현금흐름을 함께 확인한다."
+        "핵심 사실 | 미국 10월 28일 3대 지수는 소폭 상승했고, 연준은 3.75~4.00%로 동결했다. 10대2 표결에서 두 위원은 0.25%포인트 인상을 선호했다.",
+        "시장 의미 | 동결 자체보다 높은 인플레이션과 향후 인상 가능성이 성장주 할인율에 영향을 미친다.",
+        "관전 포인트 | 향후 금리 기대와 2년물·10년물 금리 움직임이 AI 성장주의 가격 부담을 키우는지 확인한다."
       ]
     },
     {
-      "title": "환율·금리: 5%선 주목",
+      "title": "환율·국채금리",
       "section": 6,
       "bullets": [
-        "핵심 사실 | 27일 원/달러는 Investing.com 한국어판 일별 기준 1,325.72원, 미국 10년물은 민간 자료 기준 약 4.99%였다. 공식 서울 주간환율과 기준은 다를 수 있다.",
-        "시장 의미 | 높은 장기금리는 성장주 가치평가와 AI 인프라 자금조달에 부담이다.",
-        "관전 포인트 | FOMC 이후 10년물 5%선, 원/달러와 유가 방향을 같은 기준시각으로 확인한다."
+        "핵심 사실 | 미국 재무부 10월 28일 기준 10년물 5.05%, 2년물 4.67%이며, 서울 외환시장 오후 3시30분 원·달러는 1,337.7원(+14.0원)이었다.",
+        "시장 의미 | 장기금리 상승과 원화 약세는 국내 성장주의 할인율과 외국인 투자심리에 부담이 될 수 있다.",
+        "관전 포인트 | 원·달러와 미국 장기금리가 추가 상승하는지, 외국인 순매수가 환율과 다른 방향으로 지속되는지 살핀다."
       ]
     },
     {
-      "title": "한국 GDP, 수출과 내수의 차이",
+      "title": "빅테크 AI 실적 명암",
       "section": 7,
       "bullets": [
-        "핵심 사실 | 3분기 한국 GDP 속보치는 전분기 대비 +1.0%, 수출 +2.3%, 설비투자 +4.1%, 민간소비 -0.2%였다. 속보치로 향후 수정 가능하다.",
-        "시장 의미 | 반도체가 성장을 지탱하지만 민간소비 약세는 내수 확산의 한계를 보여준다.",
-        "관전 포인트 | 반도체 수출 외 소비·고용 개선과 미국 AI 설비투자 둔화 위험을 점검한다."
+        "핵심 사실 | 10월 28일 미국 장 마감 후 Microsoft 매출은 923억달러(+19%), Azure 성장률은 +48%였다. Alphabet Google Cloud 매출은 약 307억달러(+103%)였지만 자유현금흐름은 약 90.7억달러 적자로 보도됐다.",
+        "시장 의미 | AI 수요의 강세가 확인되는 동시에 투자비와 현금흐름이 기업별 주가를 갈라놓고 있다. 알파벳 시간외 하락은 정규장 종가와 다르다.",
+        "관전 포인트 | AI 설비투자 대비 매출·현금 창출력과 시간외 주가 변동이 국내 반도체 투자심리로 이어지는지 확인한다."
       ]
     },
     {
-      "title": "SK하이닉스 오늘 실적 발표",
+      "title": "오늘 국내장 시나리오",
       "section": 8,
       "bullets": [
-        "핵심 사실 | SK하이닉스 공식 공지에 따라 28일 09:00 KST 이전 실적 자료가 공개되고 09:00 컨퍼런스콜이 열린다. 07:00 기준 발표 전이다.",
-        "시장 의미 | 주주환원은 긍정적일 수 있지만 해외투자·증설 자금과 함께 판단해야 한다.",
-        "관전 포인트 | HBM·메모리 수익성, 현금흐름과 확정 주주환원안을 확인한다. 미확정 배당설은 사실로 보지 않는다."
+        "핵심 사실 | 10월 28일 코스피는 +6.63% 급등해 6,012.44에 마쳤고, 연준 동결 뒤에도 미국 장기금리 5%대와 알파벳 시간외 약세가 확인됐다.",
+        "시장 의미 | 강한 반도체 실적은 상방 요인이지만 급등 뒤 차익실현과 AI 투자수익률 우려가 하방 변수다.",
+        "관전 포인트 | 삼성전자 세부 실적·외국인 매수·환율 안정이 동반되면 6,000선 안착을, 반대면 재이탈 가능성을 점검한다. 확정 예측이 아니다."
       ]
     },
     {
-      "title": "오늘 국내장 조건부 전망",
+      "title": "7일 핵심 일정",
       "section": 9,
       "bullets": [
-        "핵심 사실 | 27일 코스피 +3.09%, 코스닥 +2.29%, 미국 나스닥 +1.18%가 동반 상승했다. 28일 07:00 기준 국내 정규장은 개장 전이다.",
-        "시장 의미 | 반도체 중심 추가 상승 기대와 FOMC 직전 차익실현 가능성이 공존한다.",
-        "관전 포인트 | 실적·외국인 수급·코스닥 시장 폭 개선은 상방 조건이다. 국채금리 5% 상회와 외국인 매도 재개는 하방 조건이다."
+        "핵심 사실 | BEA는 10월 29일 미국 GDP 속보치·9월 개인소득·지출, 아마존은 같은 날 실적 컨퍼런스콜을 예고했다. BLS 11월 3일 JOLTS, BEA 11월 4일 무역수지 일정도 공식 확인됐다.",
+        "시장 의미 | 성장·물가·고용과 AI 투자비용의 조합이 연준 금리 기대와 반도체 수요 해석에 영향을 줄 수 있다.",
+        "관전 포인트 | 공식 발표값과 컨퍼런스콜 내용을 확인하되, 미발표 결과나 예상치를 확정 사실로 다루지 않는다."
       ]
     }
   ],
   "event_calendar": {
-    "checked_at": "2026-10-28T07:03:28+09:00",
+    "checked_at": "2026-10-29T07:05:22+09:00",
     "events": [
       {
-        "title": "SK하이닉스 3분기 실적 보도자료(09:00 이전, 정확 시각 미공개)",
-        "kind": "기업 실적",
-        "local_date": "2026-10-28",
-        "local_time": null,
-        "timezone": "Asia/Seoul",
-        "watch": "예상치와 실제 실적·주주환원 확정안을 구분합니다.",
-        "related": [
-          "SK하이닉스",
-          "반도체"
-        ],
-        "source": {
-          "title": "SK하이닉스 3분기 실적 발표·컨퍼런스콜 공식 초청",
-          "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/"
-        }
-      },
-      {
-        "title": "SK하이닉스 3분기 실적 컨퍼런스콜",
-        "kind": "기업 실적",
-        "local_date": "2026-10-28",
-        "local_time": "09:00",
-        "timezone": "Asia/Seoul",
-        "watch": "메모리 수요·설비투자·주주환원 계획을 확인합니다.",
-        "related": [
-          "SK하이닉스",
-          "HBM"
-        ],
-        "source": {
-          "title": "SK하이닉스 3분기 실적 발표·컨퍼런스콜 공식 초청",
-          "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/"
-        }
-      },
-      {
-        "title": "Microsoft FY27 1분기 실적 발표(시각 미공개)",
-        "kind": "기업 실적",
-        "local_date": "2026-10-28",
-        "local_time": null,
+        "title": "미국 2026년 3분기 GDP 속보치",
+        "kind": "경제지표",
+        "local_date": "2026-10-29",
+        "local_time": "08:30",
         "timezone": "America/New_York",
-        "watch": "클라우드 매출과 AI 투자지출·현금흐름을 확인합니다.",
+        "watch": "성장률과 소비·투자 기여도를 확인해 연준의 향후 정책 경로에 대한 해석을 점검한다.",
         "related": [
-          "Microsoft",
-          "AI 인프라"
+          "미국 증시",
+          "국채금리",
+          "원·달러"
         ],
         "source": {
-          "title": "Microsoft IR 2026-10-28 실적 공지",
-          "url": "https://www.microsoft.com/en-us/investor/default"
+          "title": "BEA 공식 발표 일정",
+          "url": "https://www.bea.gov/news/schedule/full"
         }
       },
       {
-        "title": "FOMC 금리 결정 및 성명",
-        "kind": "통화정책",
-        "local_date": "2026-10-28",
+        "title": "미국 9월 개인소득·지출 및 PCE 물가",
+        "kind": "경제지표",
+        "local_date": "2026-10-29",
+        "local_time": "08:30",
+        "timezone": "America/New_York",
+        "watch": "소비와 PCE 물가의 조합을 확인한다. 아직 발표 전이므로 결과를 예단하지 않는다.",
+        "related": [
+          "미국 증시",
+          "국채금리",
+          "원·달러"
+        ],
+        "source": {
+          "title": "BEA 공식 발표 일정",
+          "url": "https://www.bea.gov/news/schedule/full"
+        }
+      },
+      {
+        "title": "Amazon 2026년 3분기 실적 컨퍼런스콜",
+        "kind": "기업 실적",
+        "local_date": "2026-10-29",
         "local_time": "14:00",
-        "timezone": "America/New_York",
-        "watch": "금리 결정과 향후 경로 문구를 확인합니다.",
-        "related": [
-          "미국 증시",
-          "국채금리"
-        ],
-        "source": {
-          "title": "미국 연준 2026년 10월 공식 일정",
-          "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
-        }
-      },
-      {
-        "title": "FOMC 기자회견",
-        "kind": "통화정책",
-        "local_date": "2026-10-28",
-        "local_time": "14:30",
-        "timezone": "America/New_York",
-        "watch": "물가·경기 위험에 대한 연준의 평가를 확인합니다.",
-        "related": [
-          "미국 증시",
-          "원/달러"
-        ],
-        "source": {
-          "title": "미국 연준 2026년 10월 공식 일정",
-          "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
-        }
-      },
-      {
-        "title": "미국 3분기 GDP 속보",
-        "kind": "경제지표",
-        "local_date": "2026-10-29",
-        "local_time": "08:30",
-        "timezone": "America/New_York",
-        "watch": "성장률과 소비·투자 기여를 확인합니다.",
-        "related": [
-          "미국 증시",
-          "국채금리"
-        ],
-        "source": {
-          "title": "BEA 공식 통계 공표 일정",
-          "url": "https://www.bea.gov/news/schedule/"
-        }
-      },
-      {
-        "title": "미국 9월 개인소득·지출",
-        "kind": "경제지표",
-        "local_date": "2026-10-29",
-        "local_time": "08:30",
-        "timezone": "America/New_York",
-        "watch": "소비·물가 지표의 금리 영향에 주목합니다.",
-        "related": [
-          "미국 물가",
-          "FOMC"
-        ],
-        "source": {
-          "title": "BEA 공식 통계 공표 일정",
-          "url": "https://www.bea.gov/news/schedule/"
-        }
-      },
-      {
-        "title": "Amazon 3분기 실적 컨퍼런스콜",
-        "kind": "기업 실적",
-        "local_date": "2026-10-29",
-        "local_time": "17:00",
-        "timezone": "America/New_York",
-        "watch": "AWS 성장과 투자·현금흐름 설명을 확인합니다.",
+        "timezone": "America/Los_Angeles",
+        "watch": "AWS 성장과 AI 인프라 투자, 현금흐름에 대한 경영진 설명을 확인한다. 실적 공개 시각과 컨퍼런스콜 시각은 구분한다.",
         "related": [
           "Amazon",
+          "AWS",
           "AI 인프라"
         ],
         "source": {
-          "title": "Amazon 2026년 3분기 실적 컨퍼런스콜 공식 공지",
+          "title": "Amazon 공식 컨퍼런스콜 공지",
           "url": "https://press.aboutamazon.com/2026/10/amazon-com-to-webcast-third-quarter-2026-financial-results-conference-call"
         }
       },
       {
-        "title": "미국 3분기 고용비용지수",
+        "title": "미국 9월 JOLTS 구인·이직 조사",
         "kind": "경제지표",
-        "local_date": "2026-10-30",
-        "local_time": "08:30",
+        "local_date": "2026-11-03",
+        "local_time": "10:00",
         "timezone": "America/New_York",
-        "watch": "임금·고용비용 압력이 금리에 미치는 영향을 확인합니다.",
+        "watch": "구인 규모와 자발적 퇴직 추이를 통해 노동수요의 강도를 점검한다.",
         "related": [
-          "미국 물가",
+          "미국 증시",
           "국채금리"
         ],
         "source": {
-          "title": "BLS 고용비용지수 공식 일정",
-          "url": "https://www.bls.gov/schedule/news_release/eci.htm"
+          "title": "BLS 공식 JOLTS 발표 일정",
+          "url": "https://www.bls.gov/schedule/news_release/jolts.htm"
+        }
+      },
+      {
+        "title": "미국 9월 상품·서비스 무역수지",
+        "kind": "경제지표",
+        "local_date": "2026-11-04",
+        "local_time": "08:30",
+        "timezone": "America/New_York",
+        "watch": "수출입 구성과 무역수지 변화를 확인해 성장·달러 해석에 반영한다.",
+        "related": [
+          "미국 경제",
+          "달러"
+        ],
+        "source": {
+          "title": "BEA 공식 발표 일정",
+          "url": "https://www.bea.gov/news/schedule/full"
         }
       }
     ]
