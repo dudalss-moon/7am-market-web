@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-10-30",
+      "title": "실적은 강하지만 주가는 AI 투자 회수 가능성을 묻는다",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 6012.4399,
+          "change_pct": 6.635,
+          "session_date": "2026-10-28"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 771.28,
+          "change_pct": 3.69,
+          "session_date": "2026-10-28"
+        }
+      ]
+    },
+    {
       "date": "2026-10-29",
       "title": "10월 29일 아침: 코스피 급등 뒤, 연준 동결과 빅테크 실적의 시험",
       "has_analysis": true,
