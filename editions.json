@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-10-31",
+      "title": "AI 투자 회수 우려가 한미 증시를 동시에 압박한 주말",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5937.6602,
+          "change_pct": -1.244,
+          "session_date": "2026-10-29"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 753.23,
+          "change_pct": -2.34,
+          "session_date": "2026-10-29"
+        }
+      ]
+    },
+    {
       "date": "2026-10-30",
       "title": "실적은 강하지만 주가는 AI 투자 회수 가능성을 묻는다",
       "has_analysis": true,
