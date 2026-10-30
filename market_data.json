@@ -1,24 +1,24 @@
 {
-  "generated_at_kst": "2026-10-30T07:07:12.873094+09:00",
+  "generated_at_kst": "2026-10-30T10:37:23.431334+09:00",
   "status": "complete",
   "records": [
     {
       "name": "KOSPI",
       "symbol": "^KS11",
-      "session_date": "2026-10-28",
-      "close": 6012.4399,
-      "previous_close": 5638.3398,
-      "change_pct": 6.635,
+      "session_date": "2026-10-30",
+      "close": 5649.2798,
+      "previous_close": 5937.6602,
+      "change_pct": -4.857,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
     {
       "name": "KOSDAQ",
       "symbol": "^KQ11",
-      "session_date": "2026-10-28",
-      "close": 771.28,
-      "previous_close": 743.83,
-      "change_pct": 3.69,
+      "session_date": "2026-10-30",
+      "close": 727.53,
+      "previous_close": 753.23,
+      "change_pct": -3.412,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
@@ -45,20 +45,20 @@
     {
       "name": "Samsung Electronics",
       "symbol": "005930.KS",
-      "session_date": "2026-10-29",
-      "close": 232000.0,
-      "previous_close": 242000.0,
-      "change_pct": -4.132,
+      "session_date": "2026-10-30",
+      "close": 219500.0,
+      "previous_close": 232000.0,
+      "change_pct": -5.388,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
     {
       "name": "SK Hynix",
       "symbol": "000660.KS",
-      "session_date": "2026-10-29",
-      "close": 1526000.0,
-      "previous_close": 1487000.0,
-      "change_pct": 2.623,
+      "session_date": "2026-10-30",
+      "close": 1391000.0,
+      "previous_close": 1526000.0,
+      "change_pct": -8.847,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
@@ -75,10 +75,10 @@
     {
       "name": "USD/KRW",
       "symbol": "KRW=X",
-      "session_date": "2026-10-29",
-      "close": 1338.71,
-      "previous_close": 1326.8101,
-      "change_pct": 0.897,
+      "session_date": "2026-10-30",
+      "close": 1337.28,
+      "previous_close": 1340.34,
+      "change_pct": -0.228,
       "currency_or_unit": "KRW per USD",
       "source": "Yahoo Finance (unofficial yfinance)"
     }
@@ -87,16 +87,16 @@
   "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing.",
   "market_context": {
     "status": "unavailable",
-    "collected_at_kst": "2026-10-30T07:07:14.769436+09:00",
+    "collected_at_kst": "2026-10-30T10:37:25.704168+09:00",
     "markets": [],
     "failures": {
-      "KOSPI": "ValueError: Source session mismatch",
-      "KOSDAQ": "ValueError: Source session mismatch"
+      "KOSPI": "ValueError: Source market is not closed",
+      "KOSDAQ": "ValueError: Source market is not closed"
     }
   },
   "sector_snapshot": {
     "status": "unavailable",
     "sectors": [],
-    "reason": "ValueError: Source is not a matching after-close edition"
+    "reason": "HTTPError: HTTP Error 404: Not Found"
   }
 }
