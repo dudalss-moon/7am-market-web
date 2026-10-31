@@ -1,5 +1,5 @@
 {
-  "generated_at_kst": "2026-10-31T10:26:32.084068+09:00",
+  "generated_at_kst": "2026-11-01T07:05:07.920364+09:00",
   "status": "complete",
   "records": [
     {
@@ -36,7 +36,7 @@
       "name": "NASDAQ",
       "symbol": "^IXIC",
       "session_date": "2026-10-30",
-      "close": 25436.998,
+      "close": 25437.0,
       "previous_close": 26184.7207,
       "change_pct": -2.856,
       "currency_or_unit": "index / local listing currency",
@@ -75,10 +75,10 @@
     {
       "name": "USD/KRW",
       "symbol": "KRW=X",
-      "session_date": "2026-10-30",
-      "close": 1337.98,
-      "previous_close": 1340.34,
-      "change_pct": -0.176,
+      "session_date": "2026-10-31",
+      "close": 1335.1,
+      "previous_close": 1337.98,
+      "change_pct": -0.215,
       "currency_or_unit": "KRW per USD",
       "source": "Yahoo Finance (unofficial yfinance)"
     }
@@ -87,7 +87,7 @@
   "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing.",
   "market_context": {
     "status": "complete",
-    "collected_at_kst": "2026-10-31T10:26:33.877473+09:00",
+    "collected_at_kst": "2026-11-01T07:05:09.859257+09:00",
     "markets": [
       {
         "market": "KOSPI",
@@ -266,6 +266,6 @@
         "representative": "KCC"
       }
     ],
-    "collected_at_kst": "2026-10-31T10:26:34.775210+09:00"
+    "collected_at_kst": "2026-11-01T07:05:10.752933+09:00"
   }
 }

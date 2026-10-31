@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-11-01",
+      "title": "11월 첫 일요일: AI 투자 수익성 우려와 월요일 반도체 수급이 핵심",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5730.7402,
+          "change_pct": -3.485,
+          "session_date": "2026-10-30"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 724.38,
+          "change_pct": -3.83,
+          "session_date": "2026-10-30"
+        }
+      ]
+    },
+    {
       "date": "2026-10-31",
       "title": "AI 투자 회수 우려가 한미 증시를 동시에 압박한 주말",
       "has_analysis": true,
