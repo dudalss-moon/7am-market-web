@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-11-04",
+      "title": "한국 급락과 미국 AI 기술주 반등의 충돌",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5859.0801,
+          "change_pct": 2.239,
+          "session_date": "2026-11-02"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 734.36,
+          "change_pct": 1.378,
+          "session_date": "2026-11-02"
+        }
+      ]
+    },
+    {
       "date": "2026-11-03",
       "title": "11월 3일: 한국 기관 주도 반등과 미국 AI 기술주 약세의 엇갈림",
       "has_analysis": true,
