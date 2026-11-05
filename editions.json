@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-11-06",
+      "title": "AI 데이터센터 투자 우려로 한미 증시 동반 급락",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5683.7998,
+          "change_pct": 0.62,
+          "session_date": "2026-11-04"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 714.95,
+          "change_pct": 1.499,
+          "session_date": "2026-11-04"
+        }
+      ]
+    },
+    {
       "date": "2026-11-05",
       "title": "미국 중간선거 후 다우 3% 급등, 한국은 반도체 약세 속 지수 소폭 반등",
       "has_analysis": true,

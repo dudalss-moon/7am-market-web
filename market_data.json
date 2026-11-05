@@ -1,44 +1,44 @@
 {
-  "generated_at_kst": "2026-11-05T11:00:43.470323+09:00",
+  "generated_at_kst": "2026-11-06T07:01:26.065959+09:00",
   "status": "complete",
   "records": [
     {
       "name": "KOSPI",
       "symbol": "^KS11",
-      "session_date": "2026-11-05",
-      "close": 5439.77,
+      "session_date": "2026-11-04",
+      "close": 5683.7998,
       "previous_close": 5648.79,
-      "change_pct": -3.7,
+      "change_pct": 0.62,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
     {
       "name": "KOSDAQ",
       "symbol": "^KQ11",
-      "session_date": "2026-11-05",
-      "close": 683.65,
+      "session_date": "2026-11-04",
+      "close": 714.95,
       "previous_close": 704.39,
-      "change_pct": -2.944,
+      "change_pct": 1.499,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "session_date": "2026-11-04",
-      "close": 7688.6201,
-      "previous_close": 7568.9199,
-      "change_pct": 1.581,
+      "session_date": "2026-11-05",
+      "close": 7353.73,
+      "previous_close": 7688.6201,
+      "change_pct": -4.356,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "session_date": "2026-11-04",
-      "close": 25736.5137,
-      "previous_close": 25372.0098,
-      "change_pct": 1.437,
+      "session_date": "2026-11-05",
+      "close": 24314.998,
+      "previous_close": 25736.5098,
+      "change_pct": -5.523,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
@@ -46,9 +46,9 @@
       "name": "Samsung Electronics",
       "symbol": "005930.KS",
       "session_date": "2026-11-05",
-      "close": 205000.0,
+      "close": 201500.0,
       "previous_close": 218000.0,
-      "change_pct": -5.963,
+      "change_pct": -7.569,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
@@ -56,19 +56,19 @@
       "name": "SK Hynix",
       "symbol": "000660.KS",
       "session_date": "2026-11-05",
-      "close": 1282000.0,
+      "close": 1264000.0,
       "previous_close": 1396000.0,
-      "change_pct": -8.166,
+      "change_pct": -9.456,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
     {
       "name": "NVIDIA",
       "symbol": "NVDA",
-      "session_date": "2026-11-03",
-      "close": 206.69,
-      "previous_close": 202.06,
-      "change_pct": 2.291,
+      "session_date": "2026-11-05",
+      "close": 181.6,
+      "previous_close": 200.13,
+      "change_pct": -9.259,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
@@ -76,9 +76,9 @@
       "name": "USD/KRW",
       "symbol": "KRW=X",
       "session_date": "2026-11-05",
-      "close": 1342.53,
+      "close": 1357.88,
       "previous_close": 1342.9,
-      "change_pct": -0.028,
+      "change_pct": 1.115,
       "currency_or_unit": "KRW per USD",
       "source": "Yahoo Finance (unofficial yfinance)"
     }
@@ -87,16 +87,16 @@
   "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing.",
   "market_context": {
     "status": "unavailable",
-    "collected_at_kst": "2026-11-05T11:00:45.293515+09:00",
+    "collected_at_kst": "2026-11-06T07:01:28.885620+09:00",
     "markets": [],
     "failures": {
-      "KOSPI": "ValueError: Source market is not closed",
-      "KOSDAQ": "ValueError: Source market is not closed"
+      "KOSPI": "ValueError: Source session mismatch",
+      "KOSDAQ": "ValueError: Source session mismatch"
     }
   },
   "sector_snapshot": {
     "status": "unavailable",
     "sectors": [],
-    "reason": "HTTPError: HTTP Error 404: Not Found"
+    "reason": "ValueError: Source is not a matching after-close edition"
   }
 }
