@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-11-10",
+      "title": "미국 급반등에도 한국은 외국인 수급 확인이 우선",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5059.6899,
+          "change_pct": -6.02,
+          "session_date": "2026-11-06"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 644.27,
+          "change_pct": -5.032,
+          "session_date": "2026-11-06"
+        }
+      ]
+    },
+    {
       "date": "2026-11-06",
       "title": "AI 데이터센터 투자 우려로 한미 증시 동반 급락",
       "has_analysis": true,
