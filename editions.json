@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-11-12",
+      "title": "한국·미국 동반 반등, 그러나 금리 부담은 남았다",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5239.1299,
+          "change_pct": 4.389,
+          "session_date": "2026-11-10"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 667.61,
+          "change_pct": 4.482,
+          "session_date": "2026-11-10"
+        }
+      ]
+    },
+    {
       "date": "2026-11-10",
       "title": "미국 급반등에도 한국은 외국인 수급 확인이 우선",
       "has_analysis": true,
