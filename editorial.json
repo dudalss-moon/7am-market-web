@@ -1,284 +1,323 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "status": "reviewed",
   "sections": [
     {
       "category": "핵심 요약",
-      "title": "한국·미국 동반 반등, 그러나 금리 부담은 남았다",
+      "title": "미국 엔비디아 리더십 충격과 금리 5%대, 한국 시장에는 이중 부담",
       "body": [
-        "확인된 사실 | 11월 11일 한국 코스피는 5,375.36(+2.60%), 코스닥은 705.10(+5.62%)에 마감했다. 같은 날짜 미국 정규장에서 S&P 500은 7,619.38(+1.31%), 나스닥은 25,466.19(+1.60%), 다우는 52,486.49(+0.49%)로 마쳤다.",
-        "해석 | 한국은 전일 급등에 이어 반등을 연장했고 미국에서는 AI 인프라 기업 실적이 투자심리를 회복시켰다. 다만 앞서 예상보다 높았던 미국 CPI와 금리 인상 우려는 반등 지속성을 제한할 수 있다.",
-        "관전 포인트 | 12일 한국 개장에서는 외국인 수급, 삼성전자·SK하이닉스의 상승 지속성, 원·달러 환율과 미국 국채금리 변화를 함께 확인해야 한다."
+        "확인된 사실 | 11월 12일 한국 코스피는 5,342.73(-0.61%), 코스닥은 696.53(-1.22%)에 마감했다. 같은 날 미국 S&P 500은 7,592.40, 나스닥은 25,366.09, 다우는 52,297.09로 각각 약 0.4% 하락했다.",
+        "확인된 사실 | 엔비디아 최고경영자 젠슨 황의 사임이 보도됐고 엔비디아 주가는 약 4.3% 하락했다. 미국 10년물 국채금리는 11월 12일 시장 보도 기준 5.102%까지 상승했다.",
+        "해석 | AI 투자 수요 자체의 붕괴가 확인된 것은 아니지만 핵심 공급자의 경영진 변화와 할인율 상승이 동시에 투자심리를 압박한다. 금요일 국내 시장에서는 반도체 대형주별 수급 차별화와 환율 반응을 살펴야 한다."
       ],
       "sources": [
         {
-          "title": "Investing.com: KOSPI historical data, 2026-11-11",
-          "url": "https://kr.investing.com/indices/kospi-historical-data"
+          "title": "11월 12일 국내 증시 마감·수급",
+          "url": "https://gangnamstock.com/ko/briefing/kr-close/2026-11-12"
         },
         {
-          "title": "Investing.com: KOSDAQ historical data, 2026-11-11",
-          "url": "https://kr.investing.com/indices/kosdaq-historical-data"
+          "title": "AP 미국 11월 12일 지수 마감",
+          "url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc"
         },
         {
-          "title": "Reuters: US stocks end higher as CoreWeave results ease AI spending worries",
-          "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11/"
+          "title": "Reuters 미국 증시·엔비디아 11월 12일",
+          "url": "https://www.reuters.com/business/nasdaq-futures-fall-nvidia-turmoil-rattles-ai-stocks-2026-11-12/"
         },
         {
-          "title": "Reuters: US yields climb as inflation data boosts rate-hike expectations",
-          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-10/"
+          "title": "WSJ 11월 12일 미 국채 수익률",
+          "url": "https://www.wsj.com/economy/central-banking/treasury-yields-rise-as-fed-rate-hike-expectations-remain-strong-401fed89"
         }
       ]
     },
     {
       "category": "한국 증시",
-      "title": "코스피 2.60%, 코스닥 5.62% 상승: 반등의 폭 확대",
+      "title": "코스피·코스닥 동반 하락, 외국인은 삼성전자 매수·하이닉스 매도",
       "body": [
-        "확인된 사실 | 11월 11일 코스피는 전일 5,239.13에서 5,375.36으로 136.23포인트 상승했다. 장중 고점은 5,377.99였다. 코스닥은 전일 667.61에서 705.10으로 37.49포인트 상승했다.",
-        "확인된 사실 | 코스닥 전기·전자 업종 지수는 7.90% 상승했다. 코스피·코스닥의 외국인·기관·개인별 11일 확정 순매수 금액은 이번 확인에서 신뢰할 만한 동일 기준 원문을 확보하지 못해 기재하지 않는다.",
-        "해석 | 코스닥 상승률이 코스피보다 높아 반등이 대형주에만 국한되지 않았을 가능성을 시사한다. 다만 업종 지수 상승을 곧바로 전체 종목의 상승 종목 수나 자금 유입액으로 해석할 수 없다.",
-        "관전 포인트 | 외국인 현물·선물 매매 방향과 기관 순매수 지속 여부를 확인해야 한다. 수급이 뒷받침되지 않으면 급등 뒤 차익실현이 나타날 수 있다."
+        "확인된 사실 | 11월 12일 코스피 5,342.73(-0.61%), 코스닥 696.53(-1.22%). 코스피 상승 302개·하락 575개, 코스닥 상승 665개·하락 1,008개로 하락 종목이 우세했다. 종목 수는 마감 후 집계로 최종치와 차이 가능성이 있다.",
+        "확인된 사실 | 코스피 잠정 수급은 외국인 +3,429억원, 기관 -6,745억원, 개인 -1,931억원이다. 코스닥은 외국인 -3,538억원, 기관 +366억원, 개인 +3,143억원이다. 기타 주체가 있어 세 주체 합계를 0으로 맞추지 않는다.",
+        "확인된 사실 | 외국인은 삼성전자를 약 7,440억원 순매수하고 SK하이닉스를 약 8,746억원 순매도했다. 기관은 삼성전자를 약 2,701억원 순매도하고 SK하이닉스를 약 4,810억원 순매수했다. 모두 잠정·집계 기준 수치다.",
+        "해석 | 지수보다 내부 시장 폭이 약하고 외국인 매수가 일부 종목에 집중됐다. 금요일에는 지수 반등 여부와 함께 상승 종목 수와 외국인 현물·선물 수급의 동행 여부를 확인해야 한다."
       ],
       "sources": [
         {
-          "title": "Investing.com: KOSPI historical data, 2026-11-11",
-          "url": "https://kr.investing.com/indices/kospi-historical-data"
+          "title": "11월 12일 국내 증시 마감·수급",
+          "url": "https://gangnamstock.com/ko/briefing/kr-close/2026-11-12"
         },
         {
-          "title": "Investing.com: KOSDAQ historical data, 2026-11-11",
-          "url": "https://kr.investing.com/indices/kosdaq-historical-data"
-        },
-        {
-          "title": "Investing.com: KOSDAQ electric electronics historical data",
-          "url": "https://kr.investing.com/indices/kosdaq-electric-electronics-historical-data"
-        }
-      ]
-    },
-    {
-      "category": "미국 증시",
-      "title": "CoreWeave 실적이 AI 투자 우려 완화",
-      "body": [
-        "확인된 사실 | 로이터에 따르면 11월 11일 S&P 500은 1.31%, 나스닥은 1.60%, 다우는 0.49% 올랐다. CoreWeave 주가는 약 24.7% 상승했고 필라델피아 반도체지수는 약 5.7% 올랐다.",
-        "확인된 사실 | CoreWeave의 실적 발표와 수익성 전망이 AI 인프라 지출의 지속성에 대한 우려를 일부 완화했다. 엔비디아는 앞선 이틀간 큰 폭의 시가총액 감소 이후 안정되는 흐름을 보였다. 엔비디아의 11일 정확한 종가와 등락률은 동일 출처에서 확정하지 못해 수치를 제시하지 않는다.",
-        "해석 | 클라우드 인프라 수요가 견조하다면 GPU, 네트워크, HBM 등 공급망에 긍정적일 수 있다. 하지만 한 기업의 실적만으로 전체 데이터센터 투자 계획의 불확실성이 해소됐다고 볼 수 없다.",
-        "관전 포인트 | 다른 AI 인프라 기업의 발주·현금흐름, 엔비디아와 메모리 업체의 동반 강세, 미국 장기금리 변화를 함께 봐야 한다."
-      ],
-      "sources": [
-        {
-          "title": "Reuters: US stocks end higher as CoreWeave results ease AI spending worries",
-          "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11/"
+          "title": "연합뉴스 삼성전자·SK하이닉스 11월 12일 종가",
+          "url": "https://www.yna.co.kr/view/AKR20261112046051008"
         }
       ]
     },
     {
       "category": "반도체·AI",
-      "title": "삼성전자·SK하이닉스에 중요한 것은 HBM 수요의 실제 지속성",
+      "title": "삼성전자 상승·SK하이닉스 하락, 엔비디아 CEO 사임 파장",
       "body": [
-        "확인된 사실 | 11일 한국 코스피는 2.60%, 코스닥 전기·전자 업종은 7.90% 상승했다. 미국 반도체지수는 같은 날짜 약 5.7% 상승했고 마이크론 등 메모리 관련주에도 반등이 나타났다.",
-        "확인된 사실 | 삼성전자·SK하이닉스의 11일 정확한 종가·등락률은 이번 확인에서 교차 검증하지 못해 임의로 기재하지 않는다. 엔비디아 역시 정확한 개별 종가를 검증하지 못했다.",
-        "해석 | AI 서버 투자 회복 기대는 HBM과 서버 메모리 수요 기대를 개선할 수 있다. 반면 금리 상승, 데이터센터 인허가 및 투자수익성 우려는 고객사의 투자 속도에 영향을 줄 수 있다.",
-        "관전 포인트 | 12일 국내 반도체 대형주가 미국 반도체 업종 강세를 반영하는지, 외국인 매수와 동행하는지 확인한다. 실제 주문 축소와 정책 우려는 구분해야 한다."
+        "확인된 사실 | 11월 12일 삼성전자는 208,000원(+0.97%), SK하이닉스는 1,254,000원(-1.80%)으로 마감했다. 전날 미국 반도체 강세에도 국내 두 종목의 방향은 달랐다.",
+        "확인된 사실 | Reuters에 따르면 엔비디아 CEO 젠슨 황이 11월 12일 사임했고 CFO 콜레트 크레스가 임시 CEO를 맡는다. 관련 개인적 의혹과 조사 보도는 사실관계가 확정되지 않은 부분과 사임이라는 확인된 사건을 구분해야 한다. 엔비디아 주가는 약 4.3% 하락했다.",
+        "확인된 사실 | 삼성전자는 아산 HBM 패키징 공장에 6조원 투자 및 관련 첨단 장비 투자 약 40조원 전망이 보도됐다. 신규 생산라인 가동 목표는 2028년 6월이다.",
+        "해석 | 엔비디아의 경영진 공백은 고객 관계와 제품 로드맵 실행에 대한 불확실성을 높이지만, 즉시 HBM 발주 취소를 뜻하지는 않는다. 삼성·하이닉스에는 고객사 주문, 실제 설비투자 집행, 차세대 HBM 공급 상황이 핵심이다."
       ],
       "sources": [
         {
-          "title": "Reuters: US stocks end higher as CoreWeave results ease AI spending worries",
-          "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11/"
+          "title": "연합뉴스 삼성전자·SK하이닉스 11월 12일 종가",
+          "url": "https://www.yna.co.kr/view/AKR20261112046051008"
         },
         {
-          "title": "Barron's: Why Sandisk and Lumentum Are Leading the AI Comeback",
-          "url": "https://www.barrons.com/articles/sandisk-memory-stock-rally-ai-965b9891"
+          "title": "Reuters 엔비디아 CEO 사임",
+          "url": "https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/"
         },
         {
-          "title": "Investing.com: KOSPI historical data, 2026-11-11",
-          "url": "https://kr.investing.com/indices/kospi-historical-data"
+          "title": "Reuters 미국 증시·엔비디아 11월 12일",
+          "url": "https://www.reuters.com/business/nasdaq-futures-fall-nvidia-turmoil-rattles-ai-stocks-2026-11-12/"
+        },
+        {
+          "title": "Reuters 삼성 HBM 패키징 투자",
+          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-samsung-chip-packaging-expansion-spur-30-billion-2026-11-12/"
+        }
+      ]
+    },
+    {
+      "category": "미국 증시",
+      "title": "미국 3대 지수 약보합 하락, AI 주식 내부 차별화",
+      "body": [
+        "확인된 사실 | 11월 12일 S&P 500 7,592.40(-약 0.35%), 나스닥 25,366.09(-약 0.39%), 다우 52,297.09(-약 0.36%)로 마감했다. AP의 반올림 등락률은 세 지수 모두 약 -0.4%다.",
+        "확인된 사실 | 엔비디아가 하락한 반면 브로드컴·AMD 등 경쟁 반도체주는 상승했다. AI 데이터센터 관련 기업은 실적과 투자계획에 따라 차별화됐으며, 유가는 이란 관련 발언 이후 상승했다.",
+        "해석 | 시장은 AI 산업 전체를 일괄 매도하기보다 리더십 위험, 자본지출, 금리 민감도를 구분해 평가하고 있다. 국내에서도 반도체 업종 전체 상승을 단정하기보다 종목별 수급을 확인해야 한다."
+      ],
+      "sources": [
+        {
+          "title": "AP 미국 11월 12일 지수 마감",
+          "url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc"
+        },
+        {
+          "title": "Reuters 미국 증시·엔비디아 11월 12일",
+          "url": "https://www.reuters.com/business/nasdaq-futures-fall-nvidia-turmoil-rattles-ai-stocks-2026-11-12/"
         }
       ]
     },
     {
       "category": "글로벌 경제",
-      "title": "미국 물가 충격 이후 국채금리와 환율 점검",
+      "title": "미 국채 10년물 5.102%, 달러·유가의 동시 부담",
       "body": [
-        "확인된 사실 | 11월 10일 미국 CPI는 전월 대비 0.4%, 근원 CPI는 0.3% 상승해 각각 시장 예상 0.3%, 0.2%를 상회했다. 로이터가 보도한 같은 날 미국 10년물 국채수익률은 4.988%였다. 11일 최종 10년물 수익률은 별도 확정하지 못했다.",
-        "확인된 사실 | 외부 은행간 환율 집계에서 11월 11일 원·달러는 1,334.14원으로 나타났다. 이는 서울 외환시장 오후 3시30분 공식 종가가 아니라 별도 시각의 은행간 관측치다.",
-        "해석 | 예상보다 높은 물가는 연준 긴축 우려를 키우며 성장주 할인율에 부담을 줄 수 있다. 원화가 안정되면 외국인 주식 수급에 우호적일 수 있지만 환율 하나만으로 매수 전환을 예단할 수 없다.",
-        "관전 포인트 | 11일 미국 국채 공식 종가와 12일 원·달러 서울장 움직임을 추가 확인해야 한다. 서로 다른 시각의 환율을 동일한 종가로 비교하지 않는다."
+        "확인된 사실 | 11월 12일 WSJ 시장 마감 보도에서 미국 10년물 국채금리는 5.102%, 2년물은 4.862%로 집계됐다. 이는 미국 재무부 공식 일일 파 수익률이 아닌 시장 종가 보도다.",
+        "확인된 사실 | 11월 12일 달러/원 외부 환율 집계는 약 1,334.99원이다. 서울 외환시장 15:30 공식 종가와 집계 시각·방법이 달라 동일 수치로 취급할 수 없다.",
+        "확인된 사실 | 연준의 긴축 우려와 이란 관련 유가 상승이 국채금리 상승 배경으로 보도됐다. 미국의 10월 생산자물가지수는 11월 13일 미국 동부시간 오전 8시30분 발표 예정으로, 오전 7시 KST에는 아직 발표 전이다.",
+        "해석 | 국채금리 상승은 AI 성장주 할인율을 높이고 달러 강세와 결합하면 외국인 한국 주식 투자 심리에 부담이 된다. 원화가 안정되더라도 외국인 수급 개선까지 확인해야 긍정적 해석이 강화된다."
       ],
       "sources": [
         {
-          "title": "Reuters: US yields climb as inflation data boosts rate-hike expectations",
-          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-10/"
+          "title": "WSJ 11월 12일 미 국채 수익률",
+          "url": "https://www.wsj.com/economy/central-banking/treasury-yields-rise-as-fed-rate-hike-expectations-remain-strong-401fed89"
         },
         {
-          "title": "CurrencyStats247: KRW/USD and USD/KRW exchange rates 2026",
-          "url": "https://www.currencystats247.com/currencies/krw-usd/2026/"
+          "title": "USD/KRW 2026년 11월 12일 외부 환율 집계",
+          "url": "https://www.poundsterlinglive.com/history/USD-KRW-2026/"
+        },
+        {
+          "title": "BLS 2026년 11월 공식 발표 일정",
+          "url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
         }
       ]
     },
     {
       "category": "시장 전망",
-      "title": "11월 12일 한국장: 반등 연장과 차익실현의 갈림길",
+      "title": "11월 13일 한국장: 단기 충격 흡수 여부와 수급 분화가 관건",
       "body": [
-        "기본 시나리오 | 전일 한국 증시 상승과 밤사이 미국 AI 관련주 반등은 12일 국내 투자심리에 우호적인 출발 요인이다. 다만 단기간 두 차례 강한 상승이 나타난 만큼 차익실현 압력도 함께 고려해야 한다.",
-        "상방 조건 | 외국인 순매수가 확인되고 삼성전자·SK하이닉스가 동반 강세를 보이며 원화가 안정되면 반등이 연장될 가능성이 있다. 코스닥과 상승 종목 수가 함께 늘어나는지도 확인한다.",
-        "하방 조건 | 미국 금리 상승 우려가 재부각되거나 외국인 매도가 확대되고 반도체 대형주가 약세로 전환되면 전일 상승분 일부를 반납할 수 있다. 특정 지수 수준을 확정 지지선으로 단정하지 않는다.",
-        "관전 포인트 | 장 초반 30~60분의 외국인 현물·선물 수급, 반도체 대형주 상대강도, 원·달러 환율, 코스닥 시장 폭을 종합적으로 판단한다."
+        "기본 시나리오 | 전날 국내 지수 하락에 이어 미국에서도 엔비디아 리더십 변화와 장기금리 상승이 나타나 개장 초 변동성이 커질 수 있다. 미국 지수 낙폭 자체는 약 0.4%로 제한됐다는 점은 완충 요인이다.",
+        "상방 조건 | 삼성전자·SK하이닉스의 낙폭이 제한되고 외국인 현물·선물 매도세가 줄며 원화가 안정되면 국내 시장은 충격을 소화하고 반등을 시도할 수 있다. 상승 종목 수 확대가 확인되면 반등의 폭이 넓어졌다는 근거가 된다.",
+        "하방 조건 | 엔비디아 경영진 변화에 대한 우려가 국내 메모리주로 확산되고 미 국채금리 상승 및 외국인 순매도가 동반되면 전일 저점 재시험 가능성이 있다. 특정 가격대를 확정 지지선으로 가정하지 않는다.",
+        "해석의 한계 | 오전 7시 기준 당일 한국 정규장은 개장 전이며 실제 장중 수급과 방향은 확인할 수 없다. 오늘 밤 미국 PPI 결과 역시 미발표이므로 예상치나 결과를 단정하지 않는다."
       ],
       "sources": [
         {
-          "title": "Investing.com: KOSPI historical data, 2026-11-11",
-          "url": "https://kr.investing.com/indices/kospi-historical-data"
+          "title": "11월 12일 국내 증시 마감·수급",
+          "url": "https://gangnamstock.com/ko/briefing/kr-close/2026-11-12"
         },
         {
-          "title": "Investing.com: KOSDAQ historical data, 2026-11-11",
-          "url": "https://kr.investing.com/indices/kosdaq-historical-data"
+          "title": "Reuters 미국 증시·엔비디아 11월 12일",
+          "url": "https://www.reuters.com/business/nasdaq-futures-fall-nvidia-turmoil-rattles-ai-stocks-2026-11-12/"
         },
         {
-          "title": "Reuters: US stocks end higher as CoreWeave results ease AI spending worries",
-          "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11/"
+          "title": "WSJ 11월 12일 미 국채 수익률",
+          "url": "https://www.wsj.com/economy/central-banking/treasury-yields-rise-as-fed-rate-hike-expectations-remain-strong-401fed89"
         },
         {
-          "title": "Reuters: US yields climb as inflation data boosts rate-hike expectations",
-          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-10/"
+          "title": "BLS 2026년 11월 공식 발표 일정",
+          "url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
         }
       ]
     },
     {
       "category": "체크포인트",
-      "title": "이번 주 PPI와 다음 주 수입물가 발표",
+      "title": "오늘 확인할 네 가지: 외국인, 반도체, 환율, PPI",
       "body": [
-        "확인된 사실 | 미국 노동통계국 공식 일정에 따르면 10월 생산자물가지수(PPI)는 11월 13일 미국 동부시간 오전 8시30분, 10월 수출입물가지수는 11월 17일 같은 시각 발표 예정이다. 한국시간으로 각각 해당 날짜 오후 10시30분이다.",
-        "해석 | CPI가 예상보다 높았던 만큼 PPI는 기업 생산단계의 물가 압력을 확인하는 지표다. 수입물가는 달러 및 해외 가격 변동이 미국 물가에 미치는 영향을 판단하는 참고 자료다.",
-        "관전 포인트 | 실제 발표치와 시장 예상의 차이, 국채금리 반응, 기술주와 반도체주의 상대강도를 함께 확인한다. 미발표 수치를 예상 결과처럼 기재하지 않는다."
+        "관전 포인트 | 첫째, 외국인의 코스피 현물·선물 방향과 기관의 순매도 축소 여부를 확인한다. 둘째, 삼성전자와 SK하이닉스가 서로 다른 수급을 보인 흐름이 이어지는지 본다.",
+        "관전 포인트 | 셋째, 원·달러 환율이 미국 10년물 금리 상승에도 안정되는지 관찰한다. 넷째, 미국 동부시간 11월 13일 오전 8시30분 발표 예정인 10월 PPI가 금리 기대를 어떻게 바꾸는지 발표 후 확인한다.",
+        "해석 | 네 조건 중 여러 개가 동시에 개선된다면 반등 지속성을 더 긍정적으로 볼 수 있다. 반대로 반도체 하락과 원화 약세, 외국인 매도가 동시에 나타나면 방어적인 시나리오가 우세해진다."
       ],
       "sources": [
         {
-          "title": "U.S. Bureau of Labor Statistics: 2026 release calendar",
-          "url": "https://www.bls.gov/schedule/2026/"
+          "title": "11월 12일 국내 증시 마감·수급",
+          "url": "https://gangnamstock.com/ko/briefing/kr-close/2026-11-12"
+        },
+        {
+          "title": "연합뉴스 삼성전자·SK하이닉스 11월 12일 종가",
+          "url": "https://www.yna.co.kr/view/AKR20261112046051008"
+        },
+        {
+          "title": "WSJ 11월 12일 미 국채 수익률",
+          "url": "https://www.wsj.com/economy/central-banking/treasury-yields-rise-as-fed-rate-hike-expectations-remain-strong-401fed89"
+        },
+        {
+          "title": "BLS 2026년 11월 공식 발표 일정",
+          "url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
         }
       ]
     }
   ],
   "market_snapshot": {
-    "as_of": "2026-11-12T07:02:17+09:00",
+    "as_of": "2026-11-13T07:04:26+09:00",
     "records": [
       {
         "name": "KOSPI",
-        "session_date": "2026-11-11",
-        "close": 5375.36,
-        "change_pct": 2.6,
+        "session_date": "2026-11-12",
+        "close": 5342.73,
+        "change_pct": -0.61,
         "source": {
-          "title": "Investing.com: KOSPI historical data, 2026-11-11",
-          "url": "https://kr.investing.com/indices/kospi-historical-data"
+          "title": "11월 12일 국내 증시 마감·수급",
+          "url": "https://gangnamstock.com/ko/briefing/kr-close/2026-11-12"
         }
       },
       {
         "name": "KOSDAQ",
-        "session_date": "2026-11-11",
-        "close": 705.1,
-        "change_pct": 5.62,
+        "session_date": "2026-11-12",
+        "close": 696.53,
+        "change_pct": -1.22,
         "source": {
-          "title": "Investing.com: KOSDAQ historical data, 2026-11-11",
-          "url": "https://kr.investing.com/indices/kosdaq-historical-data"
+          "title": "11월 12일 국내 증시 마감·수급",
+          "url": "https://gangnamstock.com/ko/briefing/kr-close/2026-11-12"
         }
       },
       {
         "name": "S&P 500",
-        "session_date": "2026-11-11",
-        "close": 7619.38,
-        "change_pct": 1.31,
+        "session_date": "2026-11-12",
+        "close": 7592.4,
+        "change_pct": -0.35,
         "source": {
-          "title": "Reuters: US stocks end higher as CoreWeave results ease AI spending worries",
-          "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11/"
+          "title": "AP 미국 11월 12일 지수 마감",
+          "url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc"
         }
       },
       {
         "name": "NASDAQ",
-        "session_date": "2026-11-11",
-        "close": 25466.19,
-        "change_pct": 1.6,
+        "session_date": "2026-11-12",
+        "close": 25366.09,
+        "change_pct": -0.39,
         "source": {
-          "title": "Reuters: US stocks end higher as CoreWeave results ease AI spending worries",
-          "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11/"
+          "title": "AP 미국 11월 12일 지수 마감",
+          "url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc"
         }
       },
       {
         "name": "Dow Jones",
-        "session_date": "2026-11-11",
-        "close": 52486.49,
-        "change_pct": 0.49,
+        "session_date": "2026-11-12",
+        "close": 52297.09,
+        "change_pct": -0.36,
         "source": {
-          "title": "Reuters: US stocks end higher as CoreWeave results ease AI spending worries",
-          "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11/"
+          "title": "AP 미국 11월 12일 지수 마감",
+          "url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc"
+        }
+      },
+      {
+        "name": "Samsung Electronics",
+        "session_date": "2026-11-12",
+        "close": 208000,
+        "change_pct": 0.97,
+        "source": {
+          "title": "연합뉴스 삼성전자·SK하이닉스 11월 12일 종가",
+          "url": "https://www.yna.co.kr/view/AKR20261112046051008"
+        }
+      },
+      {
+        "name": "SK Hynix",
+        "session_date": "2026-11-12",
+        "close": 1254000,
+        "change_pct": -1.8,
+        "source": {
+          "title": "연합뉴스 삼성전자·SK하이닉스 11월 12일 종가",
+          "url": "https://www.yna.co.kr/view/AKR20261112046051008"
         }
       }
     ]
   },
   "summary_cards": [
     {
-      "title": "한국·미국 동반 반등, 그러나 금리 부담은 남았다",
+      "title": "미국 엔비디아 리더십 충격과 금리 5%대, 한국 시장에는 이중 부담",
       "section": 1,
       "bullets": [
-        "핵심 사실 | 11월 11일 한국 코스피는 5,375.36(+2.60%), 코스닥은 705.10(+5.62%)에 마감했다. 같은 날짜 미국 정규장에서 S&P 500은 7,619.38(+1.31%), 나스닥은 25,466.19(+1.60%), 다우는 52,486.49(+0.49%)로 마쳤다.",
-        "시장 의미 | 한국은 전일 급등에 이어 반등을 연장했고 미국에서는 AI 인프라 기업 실적이 투자심리를 회복시켰다. 다만 앞서 예상보다 높았던 미국 CPI와 금리 인상 우려는 반등 지속성을 제한할 수 있다.",
-        "관전 포인트 | 12일 한국 개장에서는 외국인 수급, 삼성전자·SK하이닉스의 상승 지속성, 원·달러 환율과 미국 국채금리 변화를 함께 확인해야 한다."
+        "핵심 사실 | 11월 12일 한국 코스피는 5,342.73(-0.61%), 코스닥은 696.53(-1.22%)에 마감했다. 같은 날 미국 S&P 500은 7,592.40, 나스닥은 25,366.09, 다우는 52,297.09로 각각 약 0.4% 하락했다.",
+        "시장 의미 | AI 투자 수요 자체의 붕괴가 확인된 것은 아니지만 핵심 공급자의 경영진 변화와 할인율 상승이 동시에 투자심리를 압박한다. 금요일 국내 시장에서는 반도체 대형주별 수급 차별화와 환율 반응을 살펴야 한다.",
+        "관전 포인트 | AI 투자 수요 자체의 붕괴가 확인된 것은 아니지만 핵심 공급자의 경영진 변화와 할인율 상승이 동시에 투자심리를 압박한다. 금요일 국내 시장에서는 반도체 대형주별 수급 차별화와 환율 반응을 살펴야 한다."
       ]
     },
     {
-      "title": "코스피 2.60%, 코스닥 5.62% 상승: 반등의 폭 확대",
+      "title": "코스피·코스닥 동반 하락, 외국인은 삼성전자 매수·하이닉스 매도",
       "section": 2,
       "bullets": [
-        "핵심 사실 | 11월 11일 코스피는 전일 5,239.13에서 5,375.36으로 136.23포인트 상승했다. 장중 고점은 5,377.99였다. 코스닥은 전일 667.61에서 705.10으로 37.49포인트 상승했다.",
-        "시장 의미 | 코스닥 상승률이 코스피보다 높아 반등이 대형주에만 국한되지 않았을 가능성을 시사한다. 다만 업종 지수 상승을 곧바로 전체 종목의 상승 종목 수나 자금 유입액으로 해석할 수 없다.",
-        "관전 포인트 | 외국인 현물·선물 매매 방향과 기관 순매수 지속 여부를 확인해야 한다. 수급이 뒷받침되지 않으면 급등 뒤 차익실현이 나타날 수 있다."
+        "핵심 사실 | 11월 12일 코스피 5,342.73(-0.61%), 코스닥 696.53(-1.22%). 코스피 상승 302개·하락 575개, 코스닥 상승 665개·하락 1,008개로 하락 종목이 우세했다. 종목 수는 마감 후 집계로 최종치와 차이 가능성이 있다.",
+        "시장 의미 | 지수보다 내부 시장 폭이 약하고 외국인 매수가 일부 종목에 집중됐다. 금요일에는 지수 반등 여부와 함께 상승 종목 수와 외국인 현물·선물 수급의 동행 여부를 확인해야 한다.",
+        "관전 포인트 | 지수보다 내부 시장 폭이 약하고 외국인 매수가 일부 종목에 집중됐다. 금요일에는 지수 반등 여부와 함께 상승 종목 수와 외국인 현물·선물 수급의 동행 여부를 확인해야 한다."
       ]
     },
     {
-      "title": "CoreWeave 실적이 AI 투자 우려 완화",
+      "title": "삼성전자 상승·SK하이닉스 하락, 엔비디아 CEO 사임 파장",
       "section": 3,
       "bullets": [
-        "핵심 사실 | 로이터에 따르면 11월 11일 S&P 500은 1.31%, 나스닥은 1.60%, 다우는 0.49% 올랐다. CoreWeave 주가는 약 24.7% 상승했고 필라델피아 반도체지수는 약 5.7% 올랐다.",
-        "시장 의미 | 클라우드 인프라 수요가 견조하다면 GPU, 네트워크, HBM 등 공급망에 긍정적일 수 있다. 하지만 한 기업의 실적만으로 전체 데이터센터 투자 계획의 불확실성이 해소됐다고 볼 수 없다.",
-        "관전 포인트 | 다른 AI 인프라 기업의 발주·현금흐름, 엔비디아와 메모리 업체의 동반 강세, 미국 장기금리 변화를 함께 봐야 한다."
+        "핵심 사실 | 11월 12일 삼성전자는 208,000원(+0.97%), SK하이닉스는 1,254,000원(-1.80%)으로 마감했다. 전날 미국 반도체 강세에도 국내 두 종목의 방향은 달랐다.",
+        "시장 의미 | 엔비디아의 경영진 공백은 고객 관계와 제품 로드맵 실행에 대한 불확실성을 높이지만, 즉시 HBM 발주 취소를 뜻하지는 않는다. 삼성·하이닉스에는 고객사 주문, 실제 설비투자 집행, 차세대 HBM 공급 상황이 핵심이다.",
+        "관전 포인트 | 엔비디아의 경영진 공백은 고객 관계와 제품 로드맵 실행에 대한 불확실성을 높이지만, 즉시 HBM 발주 취소를 뜻하지는 않는다. 삼성·하이닉스에는 고객사 주문, 실제 설비투자 집행, 차세대 HBM 공급 상황이 핵심이다."
       ]
     },
     {
-      "title": "삼성전자·SK하이닉스에 중요한 것은 HBM 수요의 실제 지속성",
+      "title": "미국 3대 지수 약보합 하락, AI 주식 내부 차별화",
       "section": 4,
       "bullets": [
-        "핵심 사실 | 11일 한국 코스피는 2.60%, 코스닥 전기·전자 업종은 7.90% 상승했다. 미국 반도체지수는 같은 날짜 약 5.7% 상승했고 마이크론 등 메모리 관련주에도 반등이 나타났다.",
-        "시장 의미 | AI 서버 투자 회복 기대는 HBM과 서버 메모리 수요 기대를 개선할 수 있다. 반면 금리 상승, 데이터센터 인허가 및 투자수익성 우려는 고객사의 투자 속도에 영향을 줄 수 있다.",
-        "관전 포인트 | 12일 국내 반도체 대형주가 미국 반도체 업종 강세를 반영하는지, 외국인 매수와 동행하는지 확인한다. 실제 주문 축소와 정책 우려는 구분해야 한다."
+        "핵심 사실 | 11월 12일 S&P 500 7,592.40(-약 0.35%), 나스닥 25,366.09(-약 0.39%), 다우 52,297.09(-약 0.36%)로 마감했다. AP의 반올림 등락률은 세 지수 모두 약 -0.4%다.",
+        "시장 의미 | 시장은 AI 산업 전체를 일괄 매도하기보다 리더십 위험, 자본지출, 금리 민감도를 구분해 평가하고 있다. 국내에서도 반도체 업종 전체 상승을 단정하기보다 종목별 수급을 확인해야 한다.",
+        "관전 포인트 | 시장은 AI 산업 전체를 일괄 매도하기보다 리더십 위험, 자본지출, 금리 민감도를 구분해 평가하고 있다. 국내에서도 반도체 업종 전체 상승을 단정하기보다 종목별 수급을 확인해야 한다."
       ]
     },
     {
-      "title": "미국 물가 충격 이후 국채금리와 환율 점검",
+      "title": "미 국채 10년물 5.102%, 달러·유가의 동시 부담",
       "section": 5,
       "bullets": [
-        "핵심 사실 | 11월 10일 미국 CPI는 전월 대비 0.4%, 근원 CPI는 0.3% 상승해 각각 시장 예상 0.3%, 0.2%를 상회했다. 로이터가 보도한 같은 날 미국 10년물 국채수익률은 4.988%였다. 11일 최종 10년물 수익률은 별도 확정하지 못했다.",
-        "시장 의미 | 예상보다 높은 물가는 연준 긴축 우려를 키우며 성장주 할인율에 부담을 줄 수 있다. 원화가 안정되면 외국인 주식 수급에 우호적일 수 있지만 환율 하나만으로 매수 전환을 예단할 수 없다.",
-        "관전 포인트 | 11일 미국 국채 공식 종가와 12일 원·달러 서울장 움직임을 추가 확인해야 한다. 서로 다른 시각의 환율을 동일한 종가로 비교하지 않는다."
+        "핵심 사실 | 11월 12일 WSJ 시장 마감 보도에서 미국 10년물 국채금리는 5.102%, 2년물은 4.862%로 집계됐다. 이는 미국 재무부 공식 일일 파 수익률이 아닌 시장 종가 보도다.",
+        "시장 의미 | 국채금리 상승은 AI 성장주 할인율을 높이고 달러 강세와 결합하면 외국인 한국 주식 투자 심리에 부담이 된다. 원화가 안정되더라도 외국인 수급 개선까지 확인해야 긍정적 해석이 강화된다.",
+        "관전 포인트 | 국채금리 상승은 AI 성장주 할인율을 높이고 달러 강세와 결합하면 외국인 한국 주식 투자 심리에 부담이 된다. 원화가 안정되더라도 외국인 수급 개선까지 확인해야 긍정적 해석이 강화된다."
       ]
     },
     {
-      "title": "11월 12일 한국장: 반등 연장과 차익실현의 갈림길",
+      "title": "11월 13일 한국장: 단기 충격 흡수 여부와 수급 분화가 관건",
       "section": 6,
       "bullets": [
-        "핵심 사실 | 전일 한국 증시 상승과 밤사이 미국 AI 관련주 반등은 12일 국내 투자심리에 우호적인 출발 요인이다. 다만 단기간 두 차례 강한 상승이 나타난 만큼 차익실현 압력도 함께 고려해야 한다.",
-        "시장 의미 | 전일 한국 증시 상승과 밤사이 미국 AI 관련주 반등은 12일 국내 투자심리에 우호적인 출발 요인이다. 다만 단기간 두 차례 강한 상승이 나타난 만큼 차익실현 압력도 함께 고려해야 한다.",
-        "관전 포인트 | 장 초반 30~60분의 외국인 현물·선물 수급, 반도체 대형주 상대강도, 원·달러 환율, 코스닥 시장 폭을 종합적으로 판단한다."
+        "핵심 사실 | 전날 국내 지수 하락에 이어 미국에서도 엔비디아 리더십 변화와 장기금리 상승이 나타나 개장 초 변동성이 커질 수 있다. 미국 지수 낙폭 자체는 약 0.4%로 제한됐다는 점은 완충 요인이다.",
+        "시장 의미 | 전날 국내 지수 하락에 이어 미국에서도 엔비디아 리더십 변화와 장기금리 상승이 나타나 개장 초 변동성이 커질 수 있다. 미국 지수 낙폭 자체는 약 0.4%로 제한됐다는 점은 완충 요인이다.",
+        "관전 포인트 | 삼성전자·SK하이닉스의 낙폭이 제한되고 외국인 현물·선물 매도세가 줄며 원화가 안정되면 국내 시장은 충격을 소화하고 반등을 시도할 수 있다. 상승 종목 수 확대가 확인되면 반등의 폭이 넓어졌다는 근거가 된다."
       ]
     },
     {
-      "title": "이번 주 PPI와 다음 주 수입물가 발표",
+      "title": "오늘 확인할 네 가지: 외국인, 반도체, 환율, PPI",
       "section": 7,
       "bullets": [
-        "핵심 사실 | 미국 노동통계국 공식 일정에 따르면 10월 생산자물가지수(PPI)는 11월 13일 미국 동부시간 오전 8시30분, 10월 수출입물가지수는 11월 17일 같은 시각 발표 예정이다. 한국시간으로 각각 해당 날짜 오후 10시30분이다.",
-        "시장 의미 | CPI가 예상보다 높았던 만큼 PPI는 기업 생산단계의 물가 압력을 확인하는 지표다. 수입물가는 달러 및 해외 가격 변동이 미국 물가에 미치는 영향을 판단하는 참고 자료다.",
-        "관전 포인트 | 실제 발표치와 시장 예상의 차이, 국채금리 반응, 기술주와 반도체주의 상대강도를 함께 확인한다. 미발표 수치를 예상 결과처럼 기재하지 않는다."
+        "핵심 사실 | 첫째, 외국인의 코스피 현물·선물 방향과 기관의 순매도 축소 여부를 확인한다. 둘째, 삼성전자와 SK하이닉스가 서로 다른 수급을 보인 흐름이 이어지는지 본다.",
+        "시장 의미 | 네 조건 중 여러 개가 동시에 개선된다면 반등 지속성을 더 긍정적으로 볼 수 있다. 반대로 반도체 하락과 원화 약세, 외국인 매도가 동시에 나타나면 방어적인 시나리오가 우세해진다.",
+        "관전 포인트 | 첫째, 외국인의 코스피 현물·선물 방향과 기관의 순매도 축소 여부를 확인한다. 둘째, 삼성전자와 SK하이닉스가 서로 다른 수급을 보인 흐름이 이어지는지 본다."
       ]
     }
   ],
   "event_calendar": {
-    "checked_at": "2026-11-12T07:02:17+09:00",
+    "checked_at": "2026-11-13T07:04:26+09:00",
     "events": [
       {
         "title": "미국 10월 생산자물가지수(PPI) 발표",
@@ -286,15 +325,14 @@
         "local_date": "2026-11-13",
         "local_time": "08:30",
         "timezone": "America/New_York",
-        "watch": "CPI 이후 생산단계 물가 압력과 금리 반응을 확인합니다.",
+        "watch": "물가 상승 압력과 미 국채금리 반응을 확인합니다.",
         "related": [
           "미국 증시",
-          "미국 국채금리",
-          "한국 반도체"
+          "미국 국채금리"
         ],
         "source": {
-          "title": "U.S. Bureau of Labor Statistics: 2026 release calendar",
-          "url": "https://www.bls.gov/schedule/2026/"
+          "title": "BLS 2026년 11월 공식 발표 일정",
+          "url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
         }
       },
       {
@@ -303,15 +341,30 @@
         "local_date": "2026-11-17",
         "local_time": "08:30",
         "timezone": "America/New_York",
-        "watch": "수입물가 변화와 금리·환율 반응을 확인합니다.",
+        "watch": "수입 물가와 달러·인플레이션 압력을 확인합니다.",
         "related": [
-          "미국 물가",
-          "달러",
-          "국채금리"
+          "미국 증시",
+          "미국 국채금리"
         ],
         "source": {
-          "title": "U.S. Bureau of Labor Statistics: 2026 release calendar",
-          "url": "https://www.bls.gov/schedule/2026/"
+          "title": "BLS 2026년 11월 공식 발표 일정",
+          "url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+        }
+      },
+      {
+        "title": "미국 2025년 직장 내 부상·질병 연간 통계 발표",
+        "kind": "경제지표",
+        "local_date": "2026-11-18",
+        "local_time": "10:00",
+        "timezone": "America/New_York",
+        "watch": "노동시장 관련 장기 지표로 단기 시장 영향은 제한적일 수 있습니다.",
+        "related": [
+          "미국 증시",
+          "미국 국채금리"
+        ],
+        "source": {
+          "title": "BLS 2026년 11월 공식 발표 일정",
+          "url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
         }
       }
     ]
