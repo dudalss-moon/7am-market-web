@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-11-14",
+      "title": "시장 데이터 브리핑",
+      "has_analysis": false,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5342.73,
+          "change_pct": -0.607,
+          "session_date": "2026-11-12"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 696.53,
+          "change_pct": -1.215,
+          "session_date": "2026-11-12"
+        }
+      ]
+    },
+    {
       "date": "2026-11-13",
       "title": "미국 엔비디아 리더십 충격과 금리 5%대, 한국 시장에는 이중 부담",
       "has_analysis": true,
