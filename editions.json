@@ -7,15 +7,15 @@
       "markets": [
         {
           "name": "KOSPI",
-          "close": 5375.3599,
-          "change_pct": 2.6,
-          "session_date": "2026-11-11"
+          "close": 5455.4399,
+          "change_pct": 1.49,
+          "session_date": "2026-11-13"
         },
         {
           "name": "KOSDAQ",
-          "close": 705.1,
-          "change_pct": 5.616,
-          "session_date": "2026-11-11"
+          "close": 724.24,
+          "change_pct": 2.715,
+          "session_date": "2026-11-13"
         }
       ]
     },
