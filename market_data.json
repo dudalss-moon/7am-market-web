@@ -1,14 +1,14 @@
 {
-  "generated_at_kst": "2026-11-14T07:05:23.042499+09:00",
+  "generated_at_kst": "2026-11-14T10:59:28.477070+09:00",
   "status": "complete",
   "records": [
     {
       "name": "KOSPI",
       "symbol": "^KS11",
-      "session_date": "2026-11-12",
-      "close": 5342.73,
-      "previous_close": 5375.3599,
-      "change_pct": -0.607,
+      "session_date": "2026-11-13",
+      "close": 5290.5298,
+      "previous_close": 5342.73,
+      "change_pct": -0.977,
       "currency_or_unit": "index / local listing currency",
       "source": "Yahoo Finance (unofficial yfinance)"
     },
@@ -76,9 +76,9 @@
       "name": "USD/KRW",
       "symbol": "KRW=X",
       "session_date": "2026-11-13",
-      "close": 1335.11,
+      "close": 1333.78,
       "previous_close": 1336.26,
-      "change_pct": -0.086,
+      "change_pct": -0.186,
       "currency_or_unit": "KRW per USD",
       "source": "Yahoo Finance (unofficial yfinance)"
     }
@@ -86,146 +86,38 @@
   "failures": {},
   "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing.",
   "market_context": {
-    "status": "unavailable",
-    "collected_at_kst": "2026-11-14T07:05:24.934872+09:00",
-    "markets": [],
+    "status": "partial",
+    "collected_at_kst": "2026-11-14T10:59:30.286713+09:00",
+    "markets": [
+      {
+        "market": "KOSPI",
+        "session_date": "2026-11-13",
+        "asof_kst": "2026-11-13T20:15:00+09:00",
+        "source": "Npay 증권",
+        "source_url": "https://m.stock.naver.com/domestic/index/KOSPI/total",
+        "scope": "네이버 지수 화면 집계",
+        "breadth": {
+          "advancing": 451,
+          "unchanged": 41,
+          "declining": 420,
+          "upper_limit": 3,
+          "lower_limit": 0
+        },
+        "net_buy": {
+          "individual": 145,
+          "foreign": -5419,
+          "institution": -59
+        },
+        "flow_unit": "억원"
+      }
+    ],
     "failures": {
-      "KOSPI": "ValueError: Source session mismatch",
       "KOSDAQ": "ValueError: Source session mismatch"
     }
   },
   "sector_snapshot": {
-    "status": "complete",
-    "session_date": "2026-11-12",
-    "asof_kst": "2026-11-12T19:40:00+09:00",
-    "source": "오늘의종목",
-    "source_url": "https://todaystk.kr/market/2026-11-12",
-    "scope": "원문에 표시된 주요 업종 24개",
-    "methodology": "원문 시가총액 가중 등락률",
-    "representative_basis": "원문 업종 타일에 표시된 종목",
-    "delay_minutes": 20,
-    "sectors": [
-      {
-        "name": "반도체",
-        "change_pct": -0.31,
-        "representative": "삼성전자"
-      },
-      {
-        "name": "금융",
-        "change_pct": -1.72,
-        "representative": "KB금융"
-      },
-      {
-        "name": "전기전자",
-        "change_pct": -2.01,
-        "representative": "LG에너지솔루션"
-      },
-      {
-        "name": "바이오/제약",
-        "change_pct": -0.29,
-        "representative": "삼성바이오로직스"
-      },
-      {
-        "name": "기계/장비",
-        "change_pct": -0.07,
-        "representative": "두산에너빌리티"
-      },
-      {
-        "name": "자동차/부품",
-        "change_pct": -1.45,
-        "representative": "현대차"
-      },
-      {
-        "name": "조선/해운",
-        "change_pct": 0.97,
-        "representative": "HD현대중공업"
-      },
-      {
-        "name": "IT/소프트웨어",
-        "change_pct": -3.16,
-        "representative": "NAVER"
-      },
-      {
-        "name": "2차전지/에너지",
-        "change_pct": -0.15,
-        "representative": "SK"
-      },
-      {
-        "name": "화학",
-        "change_pct": -1.64,
-        "representative": "LG화학"
-      },
-      {
-        "name": "방산",
-        "change_pct": -1.14,
-        "representative": "한화에어로스페이스"
-      },
-      {
-        "name": "식품/음료",
-        "change_pct": 0.24,
-        "representative": "KT&G"
-      },
-      {
-        "name": "철강/금속",
-        "change_pct": -1.04,
-        "representative": "POSCO홀딩스"
-      },
-      {
-        "name": "항공/운송",
-        "change_pct": 0.49,
-        "representative": "현대글로비스"
-      },
-      {
-        "name": "통신",
-        "change_pct": -0.83,
-        "representative": "SK텔레콤"
-      },
-      {
-        "name": "건설/부동산",
-        "change_pct": -0.9,
-        "representative": "삼성E&A"
-      },
-      {
-        "name": "게임/엔터테인먼트",
-        "change_pct": 1.16,
-        "representative": "크래프톤"
-      },
-      {
-        "name": "유통/소매",
-        "change_pct": -1.13,
-        "representative": "포스코인터내셔널"
-      },
-      {
-        "name": "화장품/뷰티",
-        "change_pct": -1.92,
-        "representative": "에이피알"
-      },
-      {
-        "name": "의료기기",
-        "change_pct": -2.15,
-        "representative": "HLB"
-      },
-      {
-        "name": "태양광/신재생에너지",
-        "change_pct": 0.29,
-        "representative": "한국전력"
-      },
-      {
-        "name": "섬유/의류",
-        "change_pct": -1.25,
-        "representative": "영원무역"
-      },
-      {
-        "name": "디스플레이",
-        "change_pct": -1.32,
-        "representative": "LG디스플레이"
-      },
-      {
-        "name": "시멘트/건자재",
-        "change_pct": 0.0,
-        "representative": "KCC"
-      }
-    ],
-    "collected_at_kst": "2026-11-14T07:05:25.957438+09:00"
+    "status": "unavailable",
+    "sectors": [],
+    "reason": "ValueError: Domestic quote sessions differ"
   }
 }
