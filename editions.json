@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-11-17",
+      "title": "한국과 미국의 반도체 동반 급락, 엔비디아 실적이 분기점",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5290.5298,
+          "change_pct": -0.977,
+          "session_date": "2026-11-13"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 699.66,
+          "change_pct": 0.449,
+          "session_date": "2026-11-13"
+        }
+      ]
+    },
+    {
       "date": "2026-11-14",
       "title": "시장 데이터 브리핑",
       "has_analysis": false,
