@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-11-18",
+      "title": "코스피 5,000선 이탈, 미국 증시도 동반 하락",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5100.5,
+          "change_pct": -3.592,
+          "session_date": "2026-11-16"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 665.65,
+          "change_pct": -4.861,
+          "session_date": "2026-11-16"
+        }
+      ]
+    },
+    {
       "date": "2026-11-17",
       "title": "한국과 미국의 반도체 동반 급락, 엔비디아 실적이 분기점",
       "has_analysis": true,
