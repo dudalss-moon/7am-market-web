@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-11-19",
+      "title": "코스피 반등과 미국 증시 혼조, 실적보다 금리가 변수",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5067.44,
+          "change_pct": 1.992,
+          "session_date": "2026-11-18"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 662.81,
+          "change_pct": 1.961,
+          "session_date": "2026-11-18"
+        }
+      ]
+    },
+    {
       "date": "2026-11-18",
       "title": "코스피 5,000선 이탈, 미국 증시도 동반 하락",
       "has_analysis": true,
