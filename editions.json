@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-11-20",
+      "title": "반등한 한국, 급락한 미국: 오늘은 수급 확인이 우선",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5137.89,
+          "change_pct": 1.39,
+          "session_date": "2026-11-19"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 684.81,
+          "change_pct": 3.319,
+          "session_date": "2026-11-19"
+        }
+      ]
+    },
+    {
       "date": "2026-11-19",
       "title": "코스피 반등과 미국 증시 혼조, 실적보다 금리가 변수",
       "has_analysis": true,

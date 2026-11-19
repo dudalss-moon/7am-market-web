@@ -1,0 +1,271 @@
+{
+  "generated_at_kst": "2026-11-20T06:57:02.151188+09:00",
+  "status": "complete",
+  "records": [
+    {
+      "name": "KOSPI",
+      "symbol": "^KS11",
+      "session_date": "2026-11-19",
+      "close": 5137.89,
+      "previous_close": 5067.44,
+      "change_pct": 1.39,
+      "currency_or_unit": "index / local listing currency",
+      "source": "Npay 증권"
+    },
+    {
+      "name": "KOSDAQ",
+      "symbol": "^KQ11",
+      "session_date": "2026-11-19",
+      "close": 684.81,
+      "previous_close": 662.81,
+      "change_pct": 3.319,
+      "currency_or_unit": "index / local listing currency",
+      "source": "Npay 증권"
+    },
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "session_date": "2026-11-19",
+      "close": 7175.8301,
+      "previous_close": 7323.6299,
+      "change_pct": -2.018,
+      "currency_or_unit": "index / local listing currency",
+      "source": "Yahoo Finance (unofficial yfinance)"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "session_date": "2026-11-19",
+      "close": 23879.1992,
+      "previous_close": 24429.8809,
+      "change_pct": -2.254,
+      "currency_or_unit": "index / local listing currency",
+      "source": "Yahoo Finance (unofficial yfinance)"
+    },
+    {
+      "name": "Samsung Electronics",
+      "symbol": "005930.KS",
+      "session_date": "2026-11-19",
+      "close": 196900.0,
+      "previous_close": 194700.0,
+      "change_pct": 1.13,
+      "currency_or_unit": "index / local listing currency",
+      "source": "Yahoo Finance (unofficial yfinance)"
+    },
+    {
+      "name": "SK Hynix",
+      "symbol": "000660.KS",
+      "session_date": "2026-11-19",
+      "close": 1183000.0,
+      "previous_close": 1144000.0,
+      "change_pct": 3.409,
+      "currency_or_unit": "index / local listing currency",
+      "source": "Yahoo Finance (unofficial yfinance)"
+    },
+    {
+      "name": "NVIDIA",
+      "symbol": "NVDA",
+      "session_date": "2026-11-19",
+      "close": 145.98,
+      "previous_close": 150.96,
+      "change_pct": -3.299,
+      "currency_or_unit": "index / local listing currency",
+      "source": "Yahoo Finance (unofficial yfinance)"
+    },
+    {
+      "name": "USD/KRW",
+      "symbol": "KRW=X",
+      "session_date": "2026-11-19",
+      "close": 1333.73,
+      "previous_close": 1333.01,
+      "change_pct": 0.054,
+      "currency_or_unit": "KRW per USD",
+      "source": "Yahoo Finance (unofficial yfinance)"
+    }
+  ],
+  "failures": {},
+  "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing.",
+  "market_context": {
+    "status": "complete",
+    "collected_at_kst": "2026-11-20T06:57:08.613184+09:00",
+    "markets": [
+      {
+        "market": "KOSPI",
+        "session_date": "2026-11-19",
+        "asof_kst": "2026-11-19T20:15:00+09:00",
+        "source": "Npay 증권",
+        "source_url": "https://m.stock.naver.com/domestic/index/KOSPI/total",
+        "scope": "네이버 지수 화면 집계",
+        "breadth": {
+          "advancing": 562,
+          "unchanged": 43,
+          "declining": 307,
+          "upper_limit": 1,
+          "lower_limit": 0
+        },
+        "net_buy": {
+          "individual": -560,
+          "foreign": -4086,
+          "institution": 120
+        },
+        "flow_unit": "억원"
+      },
+      {
+        "market": "KOSDAQ",
+        "session_date": "2026-11-19",
+        "asof_kst": "2026-11-19T20:15:00+09:00",
+        "source": "Npay 증권",
+        "source_url": "https://m.stock.naver.com/domestic/index/KOSDAQ/total",
+        "scope": "네이버 지수 화면 집계",
+        "breadth": {
+          "advancing": 1170,
+          "unchanged": 80,
+          "declining": 499,
+          "upper_limit": 12,
+          "lower_limit": 0
+        },
+        "net_buy": {
+          "individual": -64,
+          "foreign": -2162,
+          "institution": 2257
+        },
+        "flow_unit": "억원"
+      }
+    ],
+    "failures": {}
+  },
+  "sector_snapshot": {
+    "status": "complete",
+    "session_date": "2026-11-19",
+    "asof_kst": "2026-11-19T19:40:00+09:00",
+    "source": "오늘의종목",
+    "source_url": "https://todaystk.kr/market/2026-11-19",
+    "scope": "원문에 표시된 주요 업종 24개",
+    "methodology": "원문 시가총액 가중 등락률",
+    "representative_basis": "원문 업종 타일에 표시된 종목",
+    "delay_minutes": 20,
+    "sectors": [
+      {
+        "name": "반도체",
+        "change_pct": 2.33,
+        "representative": "삼성전자"
+      },
+      {
+        "name": "금융",
+        "change_pct": -0.84,
+        "representative": "KB금융"
+      },
+      {
+        "name": "전기전자",
+        "change_pct": 2.15,
+        "representative": "LG에너지솔루션"
+      },
+      {
+        "name": "바이오/제약",
+        "change_pct": 1.95,
+        "representative": "삼성바이오로직스"
+      },
+      {
+        "name": "기계/장비",
+        "change_pct": 3.46,
+        "representative": "두산에너빌리티"
+      },
+      {
+        "name": "자동차/부품",
+        "change_pct": -0.8,
+        "representative": "현대차"
+      },
+      {
+        "name": "조선/해운",
+        "change_pct": 1.33,
+        "representative": "HD현대중공업"
+      },
+      {
+        "name": "IT/소프트웨어",
+        "change_pct": -1.04,
+        "representative": "NAVER"
+      },
+      {
+        "name": "2차전지/에너지",
+        "change_pct": -1.96,
+        "representative": "SK"
+      },
+      {
+        "name": "화학",
+        "change_pct": 0.46,
+        "representative": "LG화학"
+      },
+      {
+        "name": "방산",
+        "change_pct": 0.79,
+        "representative": "한화에어로스페이스"
+      },
+      {
+        "name": "식품/음료",
+        "change_pct": 0.15,
+        "representative": "KT&G"
+      },
+      {
+        "name": "항공/운송",
+        "change_pct": 0.23,
+        "representative": "현대글로비스"
+      },
+      {
+        "name": "철강/금속",
+        "change_pct": -0.5,
+        "representative": "POSCO홀딩스"
+      },
+      {
+        "name": "통신",
+        "change_pct": -1.35,
+        "representative": "SK텔레콤"
+      },
+      {
+        "name": "건설/부동산",
+        "change_pct": 1.33,
+        "representative": "삼성E&A"
+      },
+      {
+        "name": "게임/엔터테인먼트",
+        "change_pct": 6.01,
+        "representative": "크래프톤"
+      },
+      {
+        "name": "화장품/뷰티",
+        "change_pct": 4.8,
+        "representative": "에이피알"
+      },
+      {
+        "name": "유통/소매",
+        "change_pct": 0.54,
+        "representative": "포스코인터내셔널"
+      },
+      {
+        "name": "의료기기",
+        "change_pct": 3.46,
+        "representative": "HLB"
+      },
+      {
+        "name": "태양광/신재생에너지",
+        "change_pct": 0.48,
+        "representative": "한국전력"
+      },
+      {
+        "name": "섬유/의류",
+        "change_pct": 1.52,
+        "representative": "영원무역"
+      },
+      {
+        "name": "디스플레이",
+        "change_pct": 0.96,
+        "representative": "LG디스플레이"
+      },
+      {
+        "name": "시멘트/건자재",
+        "change_pct": 1.45,
+        "representative": "KCC"
+      }
+    ],
+    "collected_at_kst": "2026-11-20T06:57:09.836907+09:00"
+  }
+}
