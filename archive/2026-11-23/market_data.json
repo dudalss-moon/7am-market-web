@@ -1,93 +1,113 @@
 {
-  "generated_at_kst": "2026-11-23T08:34:43.620976+09:00",
+  "generated_at_kst": "2026-11-23T08:57:31.227081+09:00",
   "status": "complete",
+  "quote_provider": "npay",
   "records": [
     {
       "name": "KOSPI",
-      "symbol": "^KS11",
+      "symbol": "KOSPI",
       "session_date": "2026-11-20",
       "close": 4869.96,
-      "previous_close": 5137.8901,
+      "previous_close": 5137.89,
       "change_pct": -5.215,
-      "currency_or_unit": "index / local listing currency",
-      "source": "Yahoo Finance (unofficial yfinance)"
+      "source": "Npay 증권",
+      "source_url": "https://m.stock.naver.com/api/index/KOSPI/price",
+      "currency_or_unit": "index / local listing currency"
     },
     {
       "name": "KOSDAQ",
-      "symbol": "^KQ11",
+      "symbol": "KOSDAQ",
       "session_date": "2026-11-20",
       "close": 645.68,
       "previous_close": 684.81,
       "change_pct": -5.714,
-      "currency_or_unit": "index / local listing currency",
-      "source": "Yahoo Finance (unofficial yfinance)"
+      "source": "Npay 증권",
+      "source_url": "https://m.stock.naver.com/api/index/KOSDAQ/price",
+      "currency_or_unit": "index / local listing currency"
     },
     {
       "name": "S&P 500",
-      "symbol": "^GSPC",
+      "symbol": ".INX",
       "session_date": "2026-11-20",
-      "close": 6910.3901,
-      "previous_close": 7175.8301,
+      "close": 6910.39,
+      "previous_close": 7175.83,
       "change_pct": -3.699,
-      "currency_or_unit": "index / local listing currency",
-      "source": "Yahoo Finance (unofficial yfinance)"
+      "source": "Npay 증권",
+      "source_url": "https://api.stock.naver.com/index/.INX/price",
+      "currency_or_unit": "index / local listing currency"
     },
     {
       "name": "NASDAQ",
-      "symbol": "^IXIC",
+      "symbol": ".IXIC",
       "session_date": "2026-11-20",
-      "close": 22617.7305,
-      "previous_close": 23879.1992,
+      "close": 22617.73,
+      "previous_close": 23879.2,
       "change_pct": -5.283,
-      "currency_or_unit": "index / local listing currency",
-      "source": "Yahoo Finance (unofficial yfinance)"
+      "source": "Npay 증권",
+      "source_url": "https://api.stock.naver.com/index/.IXIC/price",
+      "currency_or_unit": "index / local listing currency"
+    },
+    {
+      "name": "Dow Jones",
+      "symbol": ".DJI",
+      "session_date": "2026-11-20",
+      "close": 48147.33,
+      "previous_close": 49097.06,
+      "change_pct": -1.934,
+      "source": "Npay 증권",
+      "source_url": "https://api.stock.naver.com/index/.DJI/price",
+      "currency_or_unit": "index / local listing currency"
     },
     {
       "name": "Samsung Electronics",
-      "symbol": "005930.KS",
+      "symbol": "005930",
       "session_date": "2026-11-20",
       "close": 183100.0,
       "previous_close": 196900.0,
       "change_pct": -7.009,
-      "currency_or_unit": "index / local listing currency",
-      "source": "Yahoo Finance (unofficial yfinance)"
+      "source": "Npay 증권",
+      "source_url": "https://stock.naver.com/api/stockSecurity/items/v2/domestic/005930/daily-prices",
+      "currency_or_unit": "index / local listing currency"
     },
     {
       "name": "SK Hynix",
-      "symbol": "000660.KS",
+      "symbol": "000660",
       "session_date": "2026-11-20",
       "close": 1113000.0,
       "previous_close": 1183000.0,
       "change_pct": -5.917,
-      "currency_or_unit": "index / local listing currency",
-      "source": "Yahoo Finance (unofficial yfinance)"
+      "source": "Npay 증권",
+      "source_url": "https://stock.naver.com/api/stockSecurity/items/v2/domestic/000660/daily-prices",
+      "currency_or_unit": "index / local listing currency"
     },
     {
       "name": "NVIDIA",
-      "symbol": "NVDA",
+      "symbol": "NVDA.O",
       "session_date": "2026-11-20",
       "close": 125.53,
       "previous_close": 145.98,
       "change_pct": -14.009,
-      "currency_or_unit": "index / local listing currency",
-      "source": "Yahoo Finance (unofficial yfinance)"
+      "source": "Npay 증권",
+      "source_url": "https://api.stock.naver.com/stock/NVDA.O/price",
+      "currency_or_unit": "index / local listing currency"
     },
     {
       "name": "USD/KRW",
-      "symbol": "KRW=X",
-      "session_date": "2026-11-22",
-      "close": 1345.71,
-      "previous_close": 1334.79,
-      "change_pct": 0.818,
-      "currency_or_unit": "KRW per USD",
-      "source": "Yahoo Finance (unofficial yfinance)"
+      "symbol": "FX_USDKRW",
+      "session_date": "2026-11-20",
+      "close": 1345.0,
+      "previous_close": 1335.5,
+      "change_pct": 0.711,
+      "source": "Npay 증권",
+      "source_url": "https://api.stock.naver.com/marketindex/exchange/FX_USDKRW/prices",
+      "currency_or_unit": "KRW per USD"
     }
   ],
   "failures": {},
   "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing.",
   "market_context": {
     "status": "unavailable",
-    "collected_at_kst": "2026-11-23T08:34:48.093094+09:00",
+    "collected_at_kst": "2026-11-23T08:57:38.096572+09:00",
     "markets": [],
     "failures": {
       "KOSPI": "ValueError: Source market is not closed",
@@ -226,6 +246,6 @@
         "representative": "KCC"
       }
     ],
-    "collected_at_kst": "2026-11-23T08:34:48.914592+09:00"
+    "collected_at_kst": "2026-11-23T08:57:39.379074+09:00"
   }
 }
