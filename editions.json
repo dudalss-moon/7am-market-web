@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-11-24",
+      "title": "한국 급락과 미국 기술주 급반등의 엇갈린 흐름",
+      "has_analysis": true,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 4708.54,
+          "change_pct": -3.315,
+          "session_date": "2026-11-23"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 635.45,
+          "change_pct": -1.584,
+          "session_date": "2026-11-23"
+        }
+      ]
+    },
+    {
       "date": "2026-11-23",
       "title": "월요일 출근길: AI 기술주 급락의 충격과 한국 증시 개장",
       "has_analysis": true,
