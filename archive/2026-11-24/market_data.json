@@ -1,5 +1,5 @@
 {
-  "generated_at_kst": "2026-11-24T08:24:21.123547+09:00",
+  "generated_at_kst": "2026-11-24T14:45:44.672803+09:00",
   "status": "complete",
   "quote_provider": "npay",
   "records": [
@@ -107,7 +107,7 @@
   "notice": "Research data; verify timestamps, exchange holidays and licensing before publishing.",
   "market_context": {
     "status": "unavailable",
-    "collected_at_kst": "2026-11-24T08:24:28.281486+09:00",
+    "collected_at_kst": "2026-11-24T14:45:52.414729+09:00",
     "markets": [],
     "failures": {
       "KOSPI": "ValueError: Source market is not closed",
@@ -246,6 +246,6 @@
         "representative": "KCC"
       }
     ],
-    "collected_at_kst": "2026-11-24T08:24:29.359943+09:00"
+    "collected_at_kst": "2026-11-24T14:45:53.729449+09:00"
   }
 }
