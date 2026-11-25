@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-11-25",
+      "title": "시장 데이터 브리핑",
+      "has_analysis": false,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 5006.03,
+          "change_pct": 6.318,
+          "session_date": "2026-11-24"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 665.88,
+          "change_pct": 4.789,
+          "session_date": "2026-11-24"
+        }
+      ]
+    },
+    {
       "date": "2026-11-24",
       "title": "한국 급락과 미국 기술주 급반등의 엇갈린 흐름",
       "has_analysis": true,
