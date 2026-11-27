@@ -1,6 +1,25 @@
 {
   "editions": [
     {
+      "date": "2026-11-28",
+      "title": "시장 데이터 브리핑",
+      "has_analysis": false,
+      "markets": [
+        {
+          "name": "KOSPI",
+          "close": 4915.68,
+          "change_pct": 4.34,
+          "session_date": "2026-11-27"
+        },
+        {
+          "name": "KOSDAQ",
+          "close": 708.99,
+          "change_pct": 8.126,
+          "session_date": "2026-11-27"
+        }
+      ]
+    },
+    {
       "date": "2026-11-27",
       "title": "시장 데이터 브리핑",
       "has_analysis": false,
